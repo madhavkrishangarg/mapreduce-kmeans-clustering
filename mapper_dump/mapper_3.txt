@@ -1,0 +1,1864 @@
+Mapper 3 dump file
+2024-04-18 14:30:53.444964 - Partitioning completed
+2024-04-18 14:30:53.445068 - {1: [(1, [10.3, -0.3])], 0: [(0, [9.7, 0.8]), (0, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:30:53.446108 - Intermediate file written
+2024-04-18 14:30:53.467289 - Reducer 1 requested input
+2024-04-18 14:30:53.474598 - Reducer 2 requested input
+2024-04-18 14:30:53.475244 - Reducer 6 requested input
+2024-04-18 14:30:53.477608 - Reducer 3 requested input
+2024-04-18 14:30:53.478086 - Reducer 5 requested input
+2024-04-18 14:30:53.478288 - Reducer 4 requested input
+2024-04-18 14:30:53.481902 - Reducer 1 requested input
+2024-04-18 14:30:53.496561 - Reducer 1 requested input
+2024-04-18 14:30:53.498006 - Reducer 4 requested input
+2024-04-18 14:30:53.501041 - Reducer 5 requested input
+2024-04-18 14:30:53.501175 - Reducer 6 requested input
+2024-04-18 14:30:53.509746 - Reducer 6 requested input
+2024-04-18 14:30:53.516639 - Reducer 6 requested input
+2024-04-18 14:30:53.522140 - Mapper received request
+2024-04-18 14:30:53.522993 - Partitioning completed
+2024-04-18 14:30:53.523146 - {1: [(1, [10.3, -0.3]), (1, [9.7, 0.8])], 0: [(0, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:30:53.523881 - Intermediate file written
+2024-04-18 14:30:53.537030 - Reducer 6 requested input
+2024-04-18 14:30:53.537309 - Reducer 2 requested input
+2024-04-18 14:30:53.539205 - Reducer 4 requested input
+2024-04-18 14:30:53.539234 - Reducer 5 requested input
+2024-04-18 14:30:53.541186 - Reducer 1 requested input
+2024-04-18 14:30:53.541419 - Reducer 3 requested input
+2024-04-18 14:30:53.592559 - Reducer 2 requested input
+2024-04-18 14:30:53.601815 - Reducer 6 requested input
+2024-04-18 14:30:53.612748 - Reducer 5 requested input
+2024-04-18 14:30:53.620625 - Reducer 2 requested input
+2024-04-18 14:30:53.638983 - Reducer 1 requested input
+2024-04-18 14:30:53.654174 - Mapper received request
+2024-04-18 14:30:53.655068 - Partitioning completed
+2024-04-18 14:30:53.655136 - {1: [(1, [10.3, -0.3]), (1, [9.7, 0.8]), (1, [8.3, 2.9])], 0: [(0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:30:53.655394 - Intermediate file written
+2024-04-18 14:30:53.664608 - Reducer 2 requested input
+2024-04-18 14:30:53.666620 - Reducer 5 requested input
+2024-04-18 14:30:53.666800 - Reducer 3 requested input
+2024-04-18 14:30:53.667129 - Reducer 6 requested input
+2024-04-18 14:30:53.670283 - Reducer 4 requested input
+2024-04-18 14:30:53.670568 - Reducer 1 requested input
+2024-04-18 14:30:53.678257 - Reducer 5 requested input
+2024-04-18 14:30:53.678988 - Reducer 6 requested input
+2024-04-18 14:30:53.681861 - Reducer 1 requested input
+2024-04-18 14:30:53.693280 - Reducer 1 requested input
+2024-04-18 14:30:53.712022 - Mapper received request
+2024-04-18 14:30:53.713839 - Partitioning completed
+2024-04-18 14:30:53.713899 - {1: [(1, [10.3, -0.3]), (1, [9.7, 0.8]), (1, [8.3, 2.9])], 0: [(0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:30:53.714865 - Intermediate file written
+2024-04-18 14:30:53.738578 - Reducer 2 requested input
+2024-04-18 14:30:53.739130 - Reducer 3 requested input
+2024-04-18 14:30:53.740004 - Reducer 6 requested input
+2024-04-18 14:30:53.740378 - Reducer 1 requested input
+2024-04-18 14:30:53.742351 - Reducer 5 requested input
+2024-04-18 14:30:53.743971 - Reducer 4 requested input
+2024-04-18 14:30:53.762662 - Reducer 2 requested input
+2024-04-18 14:30:53.764064 - Reducer 1 requested input
+2024-04-18 14:30:53.764714 - Reducer 6 requested input
+2024-04-18 14:30:53.772341 - Reducer 1 requested input
+2024-04-18 14:32:21.954024 - Mapper received request
+2024-04-18 14:32:21.960719 - Partitioning completed
+2024-04-18 14:32:21.960959 - {0: [(0, [10.3, -0.3])], 1: [(1, [9.7, 0.8]), (1, [8.3, 2.9]), (1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:32:21.961949 - Intermediate file written
+2024-04-18 14:32:21.962131 - Mapper failed
+2024-04-18 14:32:21.965853 - Mapper received request
+2024-04-18 14:32:21.966999 - Partitioning completed
+2024-04-18 14:32:21.967115 - {0: [(0, [10.3, -0.3])], 1: [(1, [9.7, 0.8]), (1, [8.3, 2.9]), (1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:32:21.967482 - Intermediate file written
+2024-04-18 14:32:21.988042 - Reducer 2 requested input
+2024-04-18 14:32:21.993606 - Reducer 1 requested input
+2024-04-18 14:32:21.995420 - Reducer 3 requested input
+2024-04-18 14:32:22.005352 - Reducer 2 requested input
+2024-04-18 14:32:22.009373 - Reducer 3 requested input
+2024-04-18 14:32:22.012493 - Reducer 2 requested input
+2024-04-18 14:32:22.017028 - Reducer 3 requested input
+2024-04-18 14:32:22.024317 - Reducer 3 requested input
+2024-04-18 14:32:22.030636 - Reducer 3 requested input
+2024-04-18 14:32:22.036904 - Mapper received request
+2024-04-18 14:32:22.037728 - Partitioning completed
+2024-04-18 14:32:22.037785 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9])], 1: [(1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:32:22.038168 - Intermediate file written
+2024-04-18 14:32:22.049006 - Reducer 1 requested input
+2024-04-18 14:32:22.049655 - Reducer 3 requested input
+2024-04-18 14:32:22.050206 - Reducer 2 requested input
+2024-04-18 14:32:22.057002 - Reducer 1 requested input
+2024-04-18 14:32:22.058043 - Reducer 2 requested input
+2024-04-18 14:32:22.058308 - Reducer 3 requested input
+2024-04-18 14:32:22.065592 - Reducer 2 requested input
+2024-04-18 14:32:22.065766 - Reducer 3 requested input
+2024-04-18 14:32:22.073108 - Reducer 3 requested input
+2024-04-18 14:32:22.078778 - Reducer 3 requested input
+2024-04-18 14:32:22.085291 - Reducer 3 requested input
+2024-04-18 14:32:22.091716 - Reducer 3 requested input
+2024-04-18 14:32:22.097939 - Reducer 3 requested input
+2024-04-18 14:32:22.105319 - Reducer 3 requested input
+2024-04-18 14:32:22.111776 - Reducer 3 requested input
+2024-04-18 14:32:22.118212 - Mapper received request
+2024-04-18 14:32:22.119082 - Partitioning completed
+2024-04-18 14:32:22.119139 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9])], 1: [(1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:32:22.119942 - Intermediate file written
+2024-04-18 14:32:22.120001 - Mapper failed
+2024-04-18 14:32:22.121060 - Mapper received request
+2024-04-18 14:32:22.121757 - Partitioning completed
+2024-04-18 14:32:22.121809 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9])], 1: [(1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:32:22.122327 - Intermediate file written
+2024-04-18 14:32:22.122364 - Mapper failed
+2024-04-18 14:32:22.123032 - Mapper received request
+2024-04-18 14:32:22.123502 - Partitioning completed
+2024-04-18 14:32:22.123540 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9])], 1: [(1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:32:22.123792 - Intermediate file written
+2024-04-18 14:32:22.123824 - Mapper failed
+2024-04-18 14:32:22.124739 - Mapper received request
+2024-04-18 14:32:22.125428 - Partitioning completed
+2024-04-18 14:32:22.125465 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9])], 1: [(1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:32:22.125794 - Intermediate file written
+2024-04-18 14:32:22.125827 - Mapper failed
+2024-04-18 14:32:22.126455 - Mapper received request
+2024-04-18 14:32:22.126999 - Partitioning completed
+2024-04-18 14:32:22.127043 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9])], 1: [(1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:32:22.127423 - Intermediate file written
+2024-04-18 14:32:22.133940 - Reducer 2 requested input
+2024-04-18 14:32:22.133974 - Reducer 1 requested input
+2024-04-18 14:32:22.134353 - Reducer 3 requested input
+2024-04-18 14:32:22.142207 - Mapper received request
+2024-04-18 14:32:22.142853 - Partitioning completed
+2024-04-18 14:32:22.142900 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9])], 1: [(1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:32:22.143352 - Intermediate file written
+2024-04-18 14:32:22.152812 - Reducer 1 requested input
+2024-04-18 14:32:22.152829 - Reducer 3 requested input
+2024-04-18 14:32:22.152969 - Reducer 2 requested input
+2024-04-18 14:32:22.161000 - Reducer 3 requested input
+2024-04-18 14:32:22.168286 - Reducer 3 requested input
+2024-04-18 14:32:22.174856 - Reducer 3 requested input
+2024-04-18 14:32:38.171199 - Mapper received request
+2024-04-18 14:32:38.180360 - Partitioning completed
+2024-04-18 14:32:38.180469 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:32:38.180925 - Intermediate file written
+2024-04-18 14:32:38.213241 - Reducer 1 requested input
+2024-04-18 14:32:38.218246 - Reducer 3 requested input
+2024-04-18 14:32:38.218533 - Reducer 2 requested input
+2024-04-18 14:32:38.224546 - Reducer 1 requested input
+2024-04-18 14:32:38.232216 - Reducer 1 requested input
+2024-04-18 14:32:38.239648 - Reducer 1 requested input
+2024-04-18 14:32:38.244935 - Reducer 1 requested input
+2024-04-18 14:32:38.250030 - Reducer 1 requested input
+2024-04-18 14:32:38.259310 - Reducer 1 requested input
+2024-04-18 14:32:38.272883 - Reducer 1 requested input
+2024-04-18 14:32:38.278345 - Mapper received request
+2024-04-18 14:32:38.280035 - Partitioning completed
+2024-04-18 14:32:38.280089 - {1: [(1, [10.3, -0.3]), (1, [9.7, 0.8]), (1, [8.3, 2.9])], 0: [(0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:32:38.280320 - Intermediate file written
+2024-04-18 14:32:38.288952 - Reducer 2 requested input
+2024-04-18 14:32:38.289126 - Reducer 3 requested input
+2024-04-18 14:32:38.290234 - Reducer 1 requested input
+2024-04-18 14:32:38.296405 - Mapper received request
+2024-04-18 14:32:38.298062 - Partitioning completed
+2024-04-18 14:32:38.298113 - {1: [(1, [10.3, -0.3]), (1, [9.7, 0.8]), (1, [8.3, 2.9])], 0: [(0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:32:38.298399 - Intermediate file written
+2024-04-18 14:32:38.308414 - Reducer 2 requested input
+2024-04-18 14:32:38.308510 - Reducer 1 requested input
+2024-04-18 14:32:38.308633 - Reducer 3 requested input
+2024-04-18 14:32:38.317198 - Reducer 2 requested input
+2024-04-18 14:32:38.317434 - Reducer 1 requested input
+2024-04-18 14:32:38.317799 - Reducer 3 requested input
+2024-04-18 14:32:38.327331 - Reducer 2 requested input
+2024-04-18 14:32:38.327573 - Reducer 1 requested input
+2024-04-18 14:32:38.328130 - Reducer 3 requested input
+2024-04-18 14:32:38.336621 - Reducer 1 requested input
+2024-04-18 14:32:38.342740 - Reducer 1 requested input
+2024-04-18 14:34:14.808243 - Mapper received request
+2024-04-18 14:34:14.815072 - Partitioning completed
+2024-04-18 14:34:14.815226 - {1: [(1, [10.3, -0.3]), (1, [9.7, 0.8])], 0: [(0, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:34:14.816810 - Intermediate file written
+2024-04-18 14:34:14.816910 - Mapper failed
+2024-04-18 14:34:14.820438 - Mapper received request
+2024-04-18 14:34:14.821882 - Partitioning completed
+2024-04-18 14:34:14.822236 - {1: [(1, [10.3, -0.3]), (1, [9.7, 0.8])], 0: [(0, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:34:14.822746 - Intermediate file written
+2024-04-18 14:34:14.822817 - Mapper failed
+2024-04-18 14:34:14.824546 - Mapper received request
+2024-04-18 14:34:14.825927 - Partitioning completed
+2024-04-18 14:34:14.826045 - {1: [(1, [10.3, -0.3]), (1, [9.7, 0.8])], 0: [(0, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:34:14.826700 - Intermediate file written
+2024-04-18 14:34:14.826858 - Mapper failed
+2024-04-18 14:34:14.830666 - Mapper received request
+2024-04-18 14:34:14.831776 - Partitioning completed
+2024-04-18 14:34:14.831949 - {1: [(1, [10.3, -0.3]), (1, [9.7, 0.8])], 0: [(0, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:34:14.833198 - Intermediate file written
+2024-04-18 14:34:14.886687 - Reducer 3 requested input
+2024-04-18 14:34:14.892723 - Reducer 2 requested input
+2024-04-18 14:34:14.893593 - Reducer 1 requested input
+2024-04-18 14:34:14.917500 - Reducer 2 requested input
+2024-04-18 14:34:14.935912 - Reducer 2 requested input
+2024-04-18 14:34:14.943335 - Mapper received request
+2024-04-18 14:34:14.944743 - Partitioning completed
+2024-04-18 14:34:14.944796 - {1: [(1, [10.3, -0.3]), (1, [9.7, 0.8]), (1, [8.3, 2.9])], 0: [(0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:34:14.944975 - Intermediate file written
+2024-04-18 14:34:14.945142 - Mapper failed
+2024-04-18 14:34:14.946154 - Mapper received request
+2024-04-18 14:34:14.946925 - Partitioning completed
+2024-04-18 14:34:14.947101 - {1: [(1, [10.3, -0.3]), (1, [9.7, 0.8]), (1, [8.3, 2.9])], 0: [(0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:34:14.947293 - Intermediate file written
+2024-04-18 14:34:14.954487 - Reducer 2 requested input
+2024-04-18 14:34:14.954748 - Reducer 3 requested input
+2024-04-18 14:34:14.955403 - Reducer 1 requested input
+2024-04-18 14:34:14.962539 - Reducer 1 requested input
+2024-04-18 14:34:14.967732 - Mapper received request
+2024-04-18 14:34:14.968769 - Partitioning completed
+2024-04-18 14:34:14.968915 - {1: [(1, [10.3, -0.3]), (1, [9.7, 0.8]), (1, [8.3, 2.9])], 0: [(0, [0.0, 7.1]), (0, [0.9, 9.6])]}
+2024-04-18 14:34:14.969181 - Intermediate file written
+2024-04-18 14:34:14.978876 - Reducer 1 requested input
+2024-04-18 14:34:14.978931 - Reducer 3 requested input
+2024-04-18 14:34:14.979024 - Reducer 2 requested input
+2024-04-18 14:34:14.987111 - Reducer 1 requested input
+2024-04-18 14:34:14.988237 - Reducer 3 requested input
+2024-04-18 14:34:14.995122 - Reducer 3 requested input
+2024-04-18 14:34:52.063222 - Mapper received request
+2024-04-18 14:34:52.074616 - Partitioning completed
+2024-04-18 14:34:52.074774 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8])], 1: [(1, [8.3, 2.9]), (1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:34:52.077966 - Intermediate file written
+2024-04-18 14:34:52.078075 - Mapper failed
+2024-04-18 14:34:52.086287 - Mapper received request
+2024-04-18 14:34:52.088042 - Partitioning completed
+2024-04-18 14:34:52.088148 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8])], 1: [(1, [8.3, 2.9]), (1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:34:52.088672 - Intermediate file written
+2024-04-18 14:34:52.104862 - Reducer 2 requested input
+2024-04-18 14:34:52.105224 - Reducer 3 requested input
+2024-04-18 14:34:52.105347 - Reducer 1 requested input
+2024-04-18 14:34:52.113582 - Reducer 3 requested input
+2024-04-18 14:34:52.119627 - Reducer 3 requested input
+2024-04-18 14:34:52.125268 - Mapper received request
+2024-04-18 14:34:52.126072 - Partitioning completed
+2024-04-18 14:34:52.126132 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9])], 1: [(1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:34:52.126339 - Intermediate file written
+2024-04-18 14:34:52.126397 - Mapper failed
+2024-04-18 14:34:52.127373 - Mapper received request
+2024-04-18 14:34:52.128070 - Partitioning completed
+2024-04-18 14:34:52.128139 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9])], 1: [(1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:34:52.128688 - Intermediate file written
+2024-04-18 14:34:52.150183 - Reducer 2 requested input
+2024-04-18 14:34:52.150205 - Reducer 3 requested input
+2024-04-18 14:34:52.150255 - Reducer 1 requested input
+2024-04-18 14:34:52.158253 - Reducer 2 requested input
+2024-04-18 14:34:52.158280 - Reducer 1 requested input
+2024-04-18 14:34:52.164555 - Reducer 2 requested input
+2024-04-18 14:34:52.164717 - Reducer 1 requested input
+2024-04-18 14:34:52.171077 - Mapper received request
+2024-04-18 14:34:52.171809 - Partitioning completed
+2024-04-18 14:34:52.172007 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9])], 1: [(1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:34:52.172426 - Intermediate file written
+2024-04-18 14:34:52.172502 - Mapper failed
+2024-04-18 14:34:52.173781 - Mapper received request
+2024-04-18 14:34:52.174409 - Partitioning completed
+2024-04-18 14:34:52.174459 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9])], 1: [(1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:34:52.176743 - Intermediate file written
+2024-04-18 14:34:52.176819 - Mapper failed
+2024-04-18 14:34:52.178012 - Mapper received request
+2024-04-18 14:34:52.178619 - Partitioning completed
+2024-04-18 14:34:52.178678 - {0: [(0, [10.3, -0.3]), (0, [9.7, 0.8]), (0, [8.3, 2.9])], 1: [(1, [0.0, 7.1]), (1, [0.9, 9.6])]}
+2024-04-18 14:34:52.178859 - Intermediate file written
+2024-04-18 14:34:52.186042 - Reducer 3 requested input
+2024-04-18 14:34:52.186081 - Reducer 2 requested input
+2024-04-18 14:34:52.186591 - Reducer 1 requested input
+2024-04-18 14:34:52.192389 - Reducer 3 requested input
+2024-04-18 14:34:52.192556 - Reducer 2 requested input
+2024-04-18 14:34:52.197886 - Reducer 3 requested input
+2024-04-18 14:35:27.149677 - Mapper received request
+2024-04-18 14:35:27.156799 - Partitioning completed
+2024-04-18 14:35:27.157005 - {0: [(0, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6]), (0, [-1.6, 7.4]), (0, [0.3, 7.2]), (0, [0.7, 9.9])]}
+2024-04-18 14:35:27.157946 - Intermediate file written
+2024-04-18 14:35:27.176233 - Reducer 3 requested input
+2024-04-18 14:35:27.177116 - Reducer 4 requested input
+2024-04-18 14:35:27.177597 - Reducer 1 requested input
+2024-04-18 14:35:27.178191 - Reducer 2 requested input
+2024-04-18 14:35:27.178372 - Reducer 5 requested input
+2024-04-18 14:35:27.187629 - Reducer 5 requested input
+2024-04-18 14:35:27.187665 - Reducer 2 requested input
+2024-04-18 14:35:27.193316 - Reducer 2 requested input
+2024-04-18 14:35:27.193343 - Reducer 5 requested input
+2024-04-18 14:35:27.198776 - Reducer 2 requested input
+2024-04-18 14:35:27.198817 - Reducer 5 requested input
+2024-04-18 14:35:27.203983 - Mapper received request
+2024-04-18 14:35:27.204789 - Partitioning completed
+2024-04-18 14:35:27.204858 - {0: [(0, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6]), (0, [-1.6, 7.4]), (0, [0.3, 7.2]), (0, [0.7, 9.9])]}
+2024-04-18 14:35:27.205330 - Intermediate file written
+2024-04-18 14:35:27.218464 - Reducer 5 requested input
+2024-04-18 14:35:27.218656 - Reducer 1 requested input
+2024-04-18 14:35:27.218837 - Reducer 4 requested input
+2024-04-18 14:35:27.219006 - Reducer 2 requested input
+2024-04-18 14:35:27.219583 - Reducer 3 requested input
+2024-04-18 14:35:27.225721 - Reducer 5 requested input
+2024-04-18 14:35:27.225885 - Reducer 2 requested input
+2024-04-18 14:35:27.226101 - Reducer 4 requested input
+2024-04-18 14:35:27.230485 - Reducer 2 requested input
+2024-04-18 14:35:27.230628 - Reducer 4 requested input
+2024-04-18 14:35:27.235116 - Reducer 4 requested input
+2024-04-18 14:35:27.240235 - Reducer 4 requested input
+2024-04-18 14:38:48.492638 - Mapper received request
+2024-04-18 14:38:48.497323 - Partitioning completed
+2024-04-18 14:38:48.497407 - {0: [(0, [11.5, -1.9]), (0, [10.2, 0.5])], 1: [(1, [9.8, 1.2])]}
+2024-04-18 14:38:48.499490 - Intermediate file written
+2024-04-18 14:38:48.499547 - Mapper failed
+2024-04-18 14:38:48.505734 - Mapper received request
+2024-04-18 14:38:48.506684 - Partitioning completed
+2024-04-18 14:38:48.506751 - {0: [(0, [11.5, -1.9]), (0, [10.2, 0.5])], 1: [(1, [9.8, 1.2])]}
+2024-04-18 14:38:48.507014 - Intermediate file written
+2024-04-18 14:38:48.507057 - Mapper failed
+2024-04-18 14:38:48.508226 - Mapper received request
+2024-04-18 14:38:48.508929 - Partitioning completed
+2024-04-18 14:38:48.508984 - {0: [(0, [11.5, -1.9]), (0, [10.2, 0.5])], 1: [(1, [9.8, 1.2])]}
+2024-04-18 14:38:48.509175 - Intermediate file written
+2024-04-18 14:38:48.555434 - Reducer 4 requested input
+2024-04-18 14:38:48.557100 - Reducer 2 requested input
+2024-04-18 14:38:48.557533 - Reducer 1 requested input
+2024-04-18 14:38:48.558950 - Reducer 6 requested input
+2024-04-18 14:38:48.559087 - Reducer 5 requested input
+2024-04-18 14:38:48.559432 - Reducer 7 requested input
+2024-04-18 14:38:48.560395 - Reducer 9 requested input
+2024-04-18 14:38:48.561354 - Reducer 10 requested input
+2024-04-18 14:38:48.561784 - Reducer 3 requested input
+2024-04-18 14:38:48.562086 - Reducer 8 requested input
+2024-04-18 14:38:48.580933 - Reducer 1 requested input
+2024-04-18 14:38:48.582398 - Reducer 2 requested input
+2024-04-18 14:38:48.582607 - Reducer 5 requested input
+2024-04-18 14:38:48.583811 - Reducer 6 requested input
+2024-04-18 14:38:48.583969 - Reducer 9 requested input
+2024-04-18 14:38:48.584337 - Reducer 10 requested input
+2024-04-18 14:38:48.585435 - Reducer 3 requested input
+2024-04-18 14:38:48.607660 - Reducer 2 requested input
+2024-04-18 14:38:48.609182 - Reducer 3 requested input
+2024-04-18 14:38:48.610957 - Reducer 10 requested input
+2024-04-18 14:38:48.615327 - Reducer 5 requested input
+2024-04-18 14:38:48.625310 - Reducer 2 requested input
+2024-04-18 14:38:48.625407 - Reducer 10 requested input
+2024-04-18 14:38:48.630296 - Reducer 5 requested input
+2024-04-18 14:38:48.636551 - Reducer 10 requested input
+2024-04-18 14:38:48.640522 - Reducer 2 requested input
+2024-04-18 14:38:48.650031 - Mapper received request
+2024-04-18 14:38:48.651171 - Partitioning completed
+2024-04-18 14:38:48.651343 - {0: [(0, [11.5, -1.9]), (0, [10.2, 0.5]), (0, [9.8, 1.2])]}
+2024-04-18 14:38:48.651728 - Intermediate file written
+2024-04-18 14:38:48.680925 - Reducer 4 requested input
+2024-04-18 14:38:48.681603 - Reducer 3 requested input
+2024-04-18 14:38:48.681982 - Reducer 6 requested input
+2024-04-18 14:38:48.682397 - Reducer 7 requested input
+2024-04-18 14:38:48.685324 - Reducer 8 requested input
+2024-04-18 14:38:48.685434 - Reducer 10 requested input
+2024-04-18 14:38:48.692408 - Reducer 5 requested input
+2024-04-18 14:38:48.694802 - Reducer 9 requested input
+2024-04-18 14:38:48.698191 - Reducer 2 requested input
+2024-04-18 14:38:48.700371 - Reducer 1 requested input
+2024-04-18 14:38:48.700836 - Reducer 3 requested input
+2024-04-18 14:38:48.702161 - Reducer 6 requested input
+2024-04-18 14:38:48.703334 - Reducer 7 requested input
+2024-04-18 14:38:48.712956 - Reducer 5 requested input
+2024-04-18 14:38:48.716577 - Reducer 9 requested input
+2024-04-18 14:38:48.716628 - Reducer 3 requested input
+2024-04-18 14:38:48.717342 - Reducer 7 requested input
+2024-04-18 14:38:48.720606 - Reducer 1 requested input
+2024-04-18 14:38:48.731899 - Reducer 7 requested input
+2024-04-18 14:38:48.731929 - Reducer 1 requested input
+2024-04-18 14:38:48.739549 - Reducer 3 requested input
+2024-04-18 14:38:48.742846 - Reducer 7 requested input
+2024-04-18 14:38:48.756013 - Reducer 3 requested input
+2024-04-18 14:38:48.762952 - Reducer 7 requested input
+2024-04-18 14:38:48.771244 - Reducer 3 requested input
+2024-04-18 14:38:48.787461 - Mapper received request
+2024-04-18 14:38:48.789061 - Partitioning completed
+2024-04-18 14:38:48.789125 - {0: [(0, [11.5, -1.9]), (0, [10.2, 0.5]), (0, [9.8, 1.2])]}
+2024-04-18 14:38:48.789325 - Intermediate file written
+2024-04-18 14:38:48.789398 - Mapper failed
+2024-04-18 14:38:48.792020 - Mapper received request
+2024-04-18 14:38:48.793462 - Partitioning completed
+2024-04-18 14:38:48.793712 - {0: [(0, [11.5, -1.9]), (0, [10.2, 0.5]), (0, [9.8, 1.2])]}
+2024-04-18 14:38:48.794136 - Intermediate file written
+2024-04-18 14:38:48.794266 - Mapper failed
+2024-04-18 14:38:48.795151 - Mapper received request
+2024-04-18 14:38:48.795987 - Partitioning completed
+2024-04-18 14:38:48.796035 - {0: [(0, [11.5, -1.9]), (0, [10.2, 0.5]), (0, [9.8, 1.2])]}
+2024-04-18 14:38:48.796159 - Intermediate file written
+2024-04-18 14:38:48.804590 - Reducer 4 requested input
+2024-04-18 14:38:48.806024 - Reducer 8 requested input
+2024-04-18 14:38:48.806583 - Reducer 3 requested input
+2024-04-18 14:38:48.806642 - Reducer 1 requested input
+2024-04-18 14:38:48.806848 - Reducer 9 requested input
+2024-04-18 14:38:48.807773 - Reducer 10 requested input
+2024-04-18 14:38:48.811749 - Reducer 7 requested input
+2024-04-18 14:38:48.812029 - Reducer 6 requested input
+2024-04-18 14:38:48.821908 - Reducer 8 requested input
+2024-04-18 14:38:48.825500 - Reducer 6 requested input
+2024-04-18 14:38:48.832396 - Reducer 7 requested input
+2024-04-18 14:38:48.832420 - Reducer 8 requested input
+2024-04-18 14:38:48.840572 - Reducer 6 requested input
+2024-04-18 14:38:48.843222 - Reducer 2 requested input
+2024-04-18 14:38:48.857468 - Reducer 5 requested input
+2024-04-18 14:38:48.857584 - Reducer 3 requested input
+2024-04-18 14:38:48.865475 - Reducer 7 requested input
+2024-04-18 14:38:48.870781 - Reducer 3 requested input
+2024-04-18 14:38:48.875574 - Reducer 2 requested input
+2024-04-18 14:38:48.880618 - Reducer 3 requested input
+2024-04-18 14:38:48.891180 - Mapper received request
+2024-04-18 14:38:48.892064 - Partitioning completed
+2024-04-18 14:38:48.892113 - {0: [(0, [11.5, -1.9]), (0, [10.2, 0.5]), (0, [9.8, 1.2])]}
+2024-04-18 14:38:48.892254 - Intermediate file written
+2024-04-18 14:38:48.892307 - Mapper failed
+2024-04-18 14:38:48.895363 - Mapper received request
+2024-04-18 14:38:48.896046 - Partitioning completed
+2024-04-18 14:38:48.896129 - {0: [(0, [11.5, -1.9]), (0, [10.2, 0.5]), (0, [9.8, 1.2])]}
+2024-04-18 14:38:48.896288 - Intermediate file written
+2024-04-18 14:38:48.896333 - Mapper failed
+2024-04-18 14:38:48.897608 - Mapper received request
+2024-04-18 14:38:48.898370 - Partitioning completed
+2024-04-18 14:38:48.898420 - {0: [(0, [11.5, -1.9]), (0, [10.2, 0.5]), (0, [9.8, 1.2])]}
+2024-04-18 14:38:48.898694 - Intermediate file written
+2024-04-18 14:38:48.898739 - Mapper failed
+2024-04-18 14:38:48.899774 - Mapper received request
+2024-04-18 14:38:48.900311 - Partitioning completed
+2024-04-18 14:38:48.900367 - {0: [(0, [11.5, -1.9]), (0, [10.2, 0.5]), (0, [9.8, 1.2])]}
+2024-04-18 14:38:48.900635 - Intermediate file written
+2024-04-18 14:38:48.907981 - Reducer 6 requested input
+2024-04-18 14:38:48.908037 - Reducer 4 requested input
+2024-04-18 14:38:48.908279 - Reducer 2 requested input
+2024-04-18 14:38:48.908333 - Reducer 5 requested input
+2024-04-18 14:38:48.908454 - Reducer 3 requested input
+2024-04-18 14:38:48.909817 - Reducer 10 requested input
+2024-04-18 14:38:48.914086 - Reducer 9 requested input
+2024-04-18 14:38:48.923649 - Reducer 1 requested input
+2024-04-18 14:38:48.924595 - Reducer 6 requested input
+2024-04-18 14:38:48.928288 - Reducer 10 requested input
+2024-04-18 14:38:48.929900 - Reducer 8 requested input
+2024-04-18 14:38:48.935782 - Reducer 2 requested input
+2024-04-18 14:38:48.940619 - Reducer 10 requested input
+2024-04-18 14:38:48.940657 - Reducer 6 requested input
+2024-04-18 14:38:48.952251 - Reducer 7 requested input
+2024-04-18 14:38:48.955661 - Reducer 1 requested input
+2024-04-18 14:38:48.968035 - Reducer 7 requested input
+2024-04-18 14:39:26.563465 - Mapper received request
+2024-04-18 14:39:26.569181 - Partitioning completed
+2024-04-18 14:39:26.569420 - {0: [(1, [8.3, 2.9]), (0, [0.0, 7.1]), (1, [0.9, 9.6]), (0, [-1.6, 7.4]), (0, [0.3, 7.2]), (1, [0.7, 9.9])]}
+2024-04-18 14:39:26.569767 - Intermediate file written
+2024-04-18 14:39:26.569858 - Mapper failed
+2024-04-18 14:39:26.572273 - Mapper received request
+2024-04-18 14:39:26.573599 - Partitioning completed
+2024-04-18 14:39:26.573721 - {0: [(1, [8.3, 2.9]), (0, [0.0, 7.1]), (1, [0.9, 9.6]), (0, [-1.6, 7.4]), (0, [0.3, 7.2]), (1, [0.7, 9.9])]}
+2024-04-18 14:39:26.574114 - Intermediate file written
+2024-04-18 14:39:26.574357 - Mapper failed
+2024-04-18 14:39:26.575744 - Mapper received request
+2024-04-18 14:39:26.576711 - Partitioning completed
+2024-04-18 14:39:26.576804 - {0: [(1, [8.3, 2.9]), (0, [0.0, 7.1]), (1, [0.9, 9.6]), (0, [-1.6, 7.4]), (0, [0.3, 7.2]), (1, [0.7, 9.9])]}
+2024-04-18 14:39:26.577053 - Intermediate file written
+2024-04-18 14:39:26.577126 - Mapper failed
+2024-04-18 14:39:26.578178 - Mapper received request
+2024-04-18 14:39:26.579043 - Partitioning completed
+2024-04-18 14:39:26.579136 - {0: [(1, [8.3, 2.9]), (0, [0.0, 7.1]), (1, [0.9, 9.6]), (0, [-1.6, 7.4]), (0, [0.3, 7.2]), (1, [0.7, 9.9])]}
+2024-04-18 14:39:26.579378 - Intermediate file written
+2024-04-18 14:39:26.579453 - Mapper failed
+2024-04-18 14:39:26.580369 - Mapper received request
+2024-04-18 14:39:26.581183 - Partitioning completed
+2024-04-18 14:39:26.581287 - {0: [(1, [8.3, 2.9]), (0, [0.0, 7.1]), (1, [0.9, 9.6]), (0, [-1.6, 7.4]), (0, [0.3, 7.2]), (1, [0.7, 9.9])]}
+2024-04-18 14:39:26.581517 - Intermediate file written
+2024-04-18 14:39:26.591871 - Reducer 1 requested input
+2024-04-18 14:39:26.598965 - Reducer 1 requested input
+2024-04-18 14:39:26.603918 - Mapper received request
+2024-04-18 14:39:26.605460 - Partitioning completed
+2024-04-18 14:39:26.605534 - {0: [(1, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6]), (0, [-1.6, 7.4]), (0, [0.3, 7.2]), (0, [0.7, 9.9])]}
+2024-04-18 14:39:26.605970 - Intermediate file written
+2024-04-18 14:39:26.606222 - Mapper failed
+2024-04-18 14:39:26.607512 - Mapper received request
+2024-04-18 14:39:26.608153 - Partitioning completed
+2024-04-18 14:39:26.608222 - {0: [(1, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6]), (0, [-1.6, 7.4]), (0, [0.3, 7.2]), (0, [0.7, 9.9])]}
+2024-04-18 14:39:26.608355 - Intermediate file written
+2024-04-18 14:39:26.608432 - Mapper failed
+2024-04-18 14:39:26.608975 - Mapper received request
+2024-04-18 14:39:26.609570 - Partitioning completed
+2024-04-18 14:39:26.609625 - {0: [(1, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6]), (0, [-1.6, 7.4]), (0, [0.3, 7.2]), (0, [0.7, 9.9])]}
+2024-04-18 14:39:26.609753 - Intermediate file written
+2024-04-18 14:39:26.613947 - Reducer 1 requested input
+2024-04-18 14:39:26.618643 - Reducer 1 requested input
+2024-04-18 14:39:26.624561 - Reducer 1 requested input
+2024-04-18 14:39:26.629110 - Reducer 1 requested input
+2024-04-18 14:39:26.633347 - Reducer 1 requested input
+2024-04-18 14:39:26.637774 - Reducer 1 requested input
+2024-04-18 14:39:26.642760 - Mapper received request
+2024-04-18 14:39:26.643422 - Partitioning completed
+2024-04-18 14:39:26.643482 - {0: [(1, [8.3, 2.9]), (0, [0.0, 7.1]), (0, [0.9, 9.6]), (0, [-1.6, 7.4]), (0, [0.3, 7.2]), (0, [0.7, 9.9])]}
+2024-04-18 14:39:26.643979 - Intermediate file written
+2024-04-18 14:39:26.651926 - Reducer 1 requested input
+2024-04-18 19:54:47.442045 - Mapper received request
+2024-04-18 19:54:47.449344 - Partitioning completed
+2024-04-18 19:54:47.449518 - {0: [(0, [65.92469227195072, 51.192695664924834]), (0, [37.59627649460666, 83.10255966867024]), (0, [41.94706427555632, 76.82403075144262])], 1: [(1, [22.918984884832927, 86.29388886815464])], 2: [(2, [88.28421977908025, 12.067049557489574])]}
+2024-04-18 19:54:47.450939 - Intermediate file written
+2024-04-18 19:54:47.472971 - Reducer 2 requested input
+2024-04-18 19:54:47.473074 - Reducer 4 requested input
+2024-04-18 19:54:47.474185 - Reducer 1 requested input
+2024-04-18 19:54:47.474933 - Reducer 3 requested input
+2024-04-18 19:54:47.483370 - Reducer 1 requested input
+2024-04-18 19:54:47.483656 - Reducer 3 requested input
+2024-04-18 19:54:47.491048 - Reducer 3 requested input
+2024-04-18 19:54:47.491082 - Reducer 1 requested input
+2024-04-18 19:54:47.496413 - Reducer 1 requested input
+2024-04-18 19:54:47.496446 - Reducer 3 requested input
+2024-04-18 19:54:47.501378 - Reducer 1 requested input
+2024-04-18 19:54:47.505723 - Mapper received request
+2024-04-18 19:54:47.506534 - Partitioning completed
+2024-04-18 19:54:47.506598 - {2: [(2, [65.92469227195072, 51.192695664924834]), (2, [88.28421977908025, 12.067049557489574])], 1: [(1, [22.918984884832927, 86.29388886815464]), (1, [37.59627649460666, 83.10255966867024]), (1, [41.94706427555632, 76.82403075144262])]}
+2024-04-18 19:54:47.506953 - Intermediate file written
+2024-04-18 19:54:47.513418 - Reducer 1 requested input
+2024-04-18 19:54:47.513469 - Reducer 2 requested input
+2024-04-18 19:54:47.513628 - Reducer 3 requested input
+2024-04-18 19:54:47.513857 - Reducer 4 requested input
+2024-04-18 19:54:47.520394 - Reducer 3 requested input
+2024-04-18 19:54:47.520528 - Reducer 2 requested input
+2024-04-18 19:54:47.526002 - Reducer 3 requested input
+2024-04-18 19:54:47.529782 - Mapper received request
+2024-04-18 19:54:47.530579 - Partitioning completed
+2024-04-18 19:54:47.530635 - {2: [(2, [65.92469227195072, 51.192695664924834]), (2, [88.28421977908025, 12.067049557489574])], 1: [(1, [22.918984884832927, 86.29388886815464]), (1, [37.59627649460666, 83.10255966867024]), (1, [41.94706427555632, 76.82403075144262])]}
+2024-04-18 19:54:47.531055 - Intermediate file written
+2024-04-18 19:54:47.555123 - Reducer 4 requested input
+2024-04-18 19:54:47.555168 - Reducer 2 requested input
+2024-04-18 19:54:47.555267 - Reducer 3 requested input
+2024-04-18 19:54:47.555347 - Reducer 1 requested input
+2024-04-18 19:54:47.559630 - Reducer 4 requested input
+2024-04-18 19:55:50.092733 - Mapper received request
+2024-04-18 19:55:50.102207 - Partitioning completed
+2024-04-18 19:55:50.102349 - {2: [(2, [65.92469227195072, 51.192695664924834]), (2, [88.28421977908025, 12.067049557489574])], 0: [(0, [22.918984884832927, 86.29388886815464]), (0, [37.59627649460666, 83.10255966867024]), (0, [41.94706427555632, 76.82403075144262])]}
+2024-04-18 19:55:50.103115 - Intermediate file written
+2024-04-18 19:55:50.103239 - Mapper failed
+2024-04-18 19:55:50.105966 - Mapper received request
+2024-04-18 19:55:50.107364 - Partitioning completed
+2024-04-18 19:55:50.107464 - {2: [(2, [65.92469227195072, 51.192695664924834]), (2, [88.28421977908025, 12.067049557489574])], 0: [(0, [22.918984884832927, 86.29388886815464]), (0, [37.59627649460666, 83.10255966867024]), (0, [41.94706427555632, 76.82403075144262])]}
+2024-04-18 19:55:50.108158 - Intermediate file written
+2024-04-18 19:55:50.124674 - Reducer 3 requested input
+2024-04-18 19:55:50.124895 - Reducer 2 requested input
+2024-04-18 19:55:50.125295 - Reducer 4 requested input
+2024-04-18 19:55:50.125778 - Reducer 1 requested input
+2024-04-18 19:55:50.132951 - Reducer 4 requested input
+2024-04-18 19:55:50.133072 - Reducer 3 requested input
+2024-04-18 19:55:50.139220 - Reducer 3 requested input
+2024-04-18 19:55:50.139252 - Reducer 4 requested input
+2024-04-18 19:55:50.143674 - Reducer 3 requested input
+2024-04-18 19:55:50.147552 - Reducer 3 requested input
+2024-04-18 19:55:50.152682 - Reducer 3 requested input
+2024-04-18 19:55:50.156133 - Mapper received request
+2024-04-18 19:55:50.156850 - Partitioning completed
+2024-04-18 19:55:50.156940 - {2: [(2, [65.92469227195072, 51.192695664924834]), (2, [88.28421977908025, 12.067049557489574])], 0: [(0, [22.918984884832927, 86.29388886815464]), (0, [37.59627649460666, 83.10255966867024]), (0, [41.94706427555632, 76.82403075144262])]}
+2024-04-18 19:55:50.157246 - Intermediate file written
+2024-04-18 19:55:50.165250 - Reducer 2 requested input
+2024-04-18 19:55:50.165451 - Reducer 1 requested input
+2024-04-18 19:55:50.165729 - Reducer 4 requested input
+2024-04-18 19:55:50.165785 - Reducer 3 requested input
+2024-04-18 19:55:50.171606 - Reducer 3 requested input
+2024-04-18 19:55:50.175583 - Reducer 3 requested input
+2024-04-18 19:55:50.178944 - Mapper received request
+2024-04-18 19:55:50.179694 - Partitioning completed
+2024-04-18 19:55:50.179787 - {2: [(2, [65.92469227195072, 51.192695664924834]), (2, [88.28421977908025, 12.067049557489574])], 0: [(0, [22.918984884832927, 86.29388886815464]), (0, [37.59627649460666, 83.10255966867024]), (0, [41.94706427555632, 76.82403075144262])]}
+2024-04-18 19:55:50.180096 - Intermediate file written
+2024-04-18 19:55:50.194077 - Reducer 3 requested input
+2024-04-18 19:55:50.194132 - Reducer 2 requested input
+2024-04-18 19:55:50.194226 - Reducer 4 requested input
+2024-04-18 19:55:50.194386 - Reducer 1 requested input
+2024-04-18 19:55:50.202795 - Reducer 4 requested input
+2024-04-18 19:55:50.202948 - Reducer 1 requested input
+2024-04-18 19:55:50.206780 - Reducer 4 requested input
+2024-04-18 19:57:36.549167 - Mapper received request
+2024-04-18 19:57:36.556798 - Partitioning completed
+2024-04-18 19:57:36.557316 - {2: [(2, [30.2214411954406, 60.63826278594955]), (2, [15.256211095947226, 62.08885022713485])], 1: [(1, [65.92469227195072, 51.192695664924834])]}
+2024-04-18 19:57:36.557901 - Intermediate file written
+2024-04-18 19:57:36.580942 - Reducer 5 requested input
+2024-04-18 19:57:36.583532 - Reducer 1 requested input
+2024-04-18 19:57:36.583620 - Reducer 3 requested input
+2024-04-18 19:57:36.584812 - Reducer 4 requested input
+2024-04-18 19:57:36.585479 - Reducer 2 requested input
+2024-04-18 19:57:36.585602 - Reducer 6 requested input
+2024-04-18 19:57:36.595187 - Reducer 2 requested input
+2024-04-18 19:57:36.601036 - Mapper received request
+2024-04-18 19:57:36.602574 - Partitioning completed
+2024-04-18 19:57:36.602633 - {2: [(2, [30.2214411954406, 60.63826278594955]), (2, [15.256211095947226, 62.08885022713485])], 1: [(1, [65.92469227195072, 51.192695664924834])]}
+2024-04-18 19:57:36.602837 - Intermediate file written
+2024-04-18 19:57:36.614767 - Reducer 3 requested input
+2024-04-18 19:57:36.615564 - Reducer 1 requested input
+2024-04-18 19:57:36.615783 - Reducer 5 requested input
+2024-04-18 19:57:36.616324 - Reducer 4 requested input
+2024-04-18 19:57:36.616847 - Reducer 2 requested input
+2024-04-18 19:57:36.617045 - Reducer 6 requested input
+2024-04-18 19:57:36.625019 - Reducer 4 requested input
+2024-04-18 19:57:36.625963 - Reducer 6 requested input
+2024-04-18 19:57:36.626029 - Reducer 2 requested input
+2024-04-18 19:57:36.630888 - Reducer 4 requested input
+2024-04-18 19:57:36.631642 - Reducer 6 requested input
+2024-04-18 19:57:36.637254 - Reducer 4 requested input
+2024-04-18 19:57:36.637636 - Reducer 6 requested input
+2024-04-18 19:57:36.642304 - Reducer 6 requested input
+2024-04-18 19:57:36.646916 - Mapper received request
+2024-04-18 19:57:36.647965 - Partitioning completed
+2024-04-18 19:57:36.648113 - {2: [(2, [30.2214411954406, 60.63826278594955]), (2, [15.256211095947226, 62.08885022713485])], 1: [(1, [65.92469227195072, 51.192695664924834])]}
+2024-04-18 19:57:36.648488 - Intermediate file written
+2024-04-18 19:57:36.648546 - Mapper failed
+2024-04-18 19:57:36.649994 - Mapper received request
+2024-04-18 19:57:36.650947 - Partitioning completed
+2024-04-18 19:57:36.651002 - {2: [(2, [30.2214411954406, 60.63826278594955]), (2, [15.256211095947226, 62.08885022713485])], 1: [(1, [65.92469227195072, 51.192695664924834])]}
+2024-04-18 19:57:36.651173 - Intermediate file written
+2024-04-18 19:57:36.651218 - Mapper failed
+2024-04-18 19:57:36.652246 - Mapper received request
+2024-04-18 19:57:36.653290 - Partitioning completed
+2024-04-18 19:57:36.653350 - {2: [(2, [30.2214411954406, 60.63826278594955]), (2, [15.256211095947226, 62.08885022713485])], 1: [(1, [65.92469227195072, 51.192695664924834])]}
+2024-04-18 19:57:36.653543 - Intermediate file written
+2024-04-18 19:57:36.653590 - Mapper failed
+2024-04-18 19:57:36.654450 - Mapper received request
+2024-04-18 19:57:36.655007 - Partitioning completed
+2024-04-18 19:57:36.655067 - {2: [(2, [30.2214411954406, 60.63826278594955]), (2, [15.256211095947226, 62.08885022713485])], 1: [(1, [65.92469227195072, 51.192695664924834])]}
+2024-04-18 19:57:36.655265 - Intermediate file written
+2024-04-18 19:57:36.655311 - Mapper failed
+2024-04-18 19:57:36.655916 - Mapper received request
+2024-04-18 19:57:36.656340 - Partitioning completed
+2024-04-18 19:57:36.656385 - {2: [(2, [30.2214411954406, 60.63826278594955]), (2, [15.256211095947226, 62.08885022713485])], 1: [(1, [65.92469227195072, 51.192695664924834])]}
+2024-04-18 19:57:36.656554 - Intermediate file written
+2024-04-18 19:57:36.662989 - Reducer 1 requested input
+2024-04-18 19:57:36.663274 - Reducer 6 requested input
+2024-04-18 19:57:36.663382 - Reducer 2 requested input
+2024-04-18 19:57:36.663794 - Reducer 3 requested input
+2024-04-18 19:57:36.663839 - Reducer 5 requested input
+2024-04-18 19:57:36.664314 - Reducer 4 requested input
+2024-04-18 19:57:36.674167 - Reducer 1 requested input
+2024-04-18 19:57:36.675600 - Reducer 2 requested input
+2024-04-18 19:57:36.677031 - Reducer 3 requested input
+2024-04-18 19:57:36.677516 - Reducer 4 requested input
+2024-04-18 19:57:36.684562 - Reducer 2 requested input
+2024-04-18 19:57:36.685079 - Reducer 4 requested input
+2024-04-18 19:57:36.689929 - Reducer 4 requested input
+2024-04-18 19:57:36.694226 - Reducer 4 requested input
+2024-04-18 20:01:45.624191 - Mapper received request
+2024-04-18 20:01:45.629909 - Partitioning completed
+2024-04-18 20:01:45.630060 - {2: [(2, [41.94706427555632, 76.82403075144262]), (2, [30.93467269277513, 62.34121834917595])], 1: [(1, [2.552573964893323, 17.536987084919097]), (1, [24.281737705586117, 48.02641007037477]), (1, [14.536067497498816, 51.3905894486027]), (1, [12.289008223892928, 76.22457846480101])]}
+2024-04-18 20:01:45.630610 - Intermediate file written
+2024-04-18 20:01:45.646813 - Reducer 2 requested input
+2024-04-18 20:01:45.647255 - Reducer 3 requested input
+2024-04-18 20:01:45.647586 - Reducer 1 requested input
+2024-04-18 20:01:45.655517 - Reducer 1 requested input
+2024-04-18 20:01:45.658335 - Mapper received request
+2024-04-18 20:01:45.659101 - Partitioning completed
+2024-04-18 20:01:45.659166 - {2: [(2, [41.94706427555632, 76.82403075144262])], 1: [(1, [2.552573964893323, 17.536987084919097]), (1, [24.281737705586117, 48.02641007037477]), (1, [14.536067497498816, 51.3905894486027]), (1, [30.93467269277513, 62.34121834917595])], 0: [(0, [12.289008223892928, 76.22457846480101])]}
+2024-04-18 20:01:45.659589 - Intermediate file written
+2024-04-18 20:01:45.666010 - Reducer 2 requested input
+2024-04-18 20:01:45.666150 - Reducer 1 requested input
+2024-04-18 20:01:45.666552 - Reducer 3 requested input
+2024-04-18 20:01:45.671706 - Reducer 1 requested input
+2024-04-18 20:01:45.671758 - Reducer 3 requested input
+2024-04-18 20:01:45.675587 - Reducer 1 requested input
+2024-04-18 20:01:45.675614 - Reducer 3 requested input
+2024-04-18 20:01:45.679581 - Reducer 3 requested input
+2024-04-18 20:01:45.679615 - Reducer 1 requested input
+2024-04-18 20:01:45.683529 - Reducer 3 requested input
+2024-04-18 20:01:45.687469 - Reducer 3 requested input
+2024-04-18 20:01:45.690277 - Reducer 3 requested input
+2024-04-18 20:01:45.692575 - Mapper received request
+2024-04-18 20:01:45.693260 - Partitioning completed
+2024-04-18 20:01:45.693312 - {0: [(0, [41.94706427555632, 76.82403075144262]), (0, [12.289008223892928, 76.22457846480101])], 1: [(1, [2.552573964893323, 17.536987084919097]), (1, [24.281737705586117, 48.02641007037477]), (1, [14.536067497498816, 51.3905894486027]), (1, [30.93467269277513, 62.34121834917595])]}
+2024-04-18 20:01:45.693541 - Intermediate file written
+2024-04-18 20:01:45.698992 - Reducer 2 requested input
+2024-04-18 20:01:45.699040 - Reducer 3 requested input
+2024-04-18 20:01:45.699329 - Reducer 1 requested input
+2024-04-18 20:01:45.703026 - Mapper received request
+2024-04-18 20:01:45.703802 - Partitioning completed
+2024-04-18 20:01:45.703861 - {0: [(0, [41.94706427555632, 76.82403075144262]), (0, [12.289008223892928, 76.22457846480101])], 1: [(1, [2.552573964893323, 17.536987084919097]), (1, [24.281737705586117, 48.02641007037477]), (1, [14.536067497498816, 51.3905894486027]), (1, [30.93467269277513, 62.34121834917595])]}
+2024-04-18 20:01:45.704087 - Intermediate file written
+2024-04-18 20:01:45.704135 - Mapper failed
+2024-04-18 20:01:45.704979 - Mapper received request
+2024-04-18 20:01:45.705491 - Partitioning completed
+2024-04-18 20:01:45.705550 - {0: [(0, [41.94706427555632, 76.82403075144262]), (0, [12.289008223892928, 76.22457846480101])], 1: [(1, [2.552573964893323, 17.536987084919097]), (1, [24.281737705586117, 48.02641007037477]), (1, [14.536067497498816, 51.3905894486027]), (1, [30.93467269277513, 62.34121834917595])]}
+2024-04-18 20:01:45.705761 - Intermediate file written
+2024-04-18 20:01:45.705805 - Mapper failed
+2024-04-18 20:01:45.706399 - Mapper received request
+2024-04-18 20:01:45.706818 - Partitioning completed
+2024-04-18 20:01:45.706862 - {0: [(0, [41.94706427555632, 76.82403075144262]), (0, [12.289008223892928, 76.22457846480101])], 1: [(1, [2.552573964893323, 17.536987084919097]), (1, [24.281737705586117, 48.02641007037477]), (1, [14.536067497498816, 51.3905894486027]), (1, [30.93467269277513, 62.34121834917595])]}
+2024-04-18 20:01:45.707022 - Intermediate file written
+2024-04-18 20:01:45.712357 - Reducer 1 requested input
+2024-04-18 20:01:45.712471 - Reducer 2 requested input
+2024-04-18 20:01:45.712493 - Reducer 3 requested input
+2024-04-18 20:01:45.720594 - Reducer 2 requested input
+2024-04-18 20:01:45.720615 - Reducer 3 requested input
+2024-04-18 20:01:45.725542 - Reducer 2 requested input
+2024-04-18 20:01:45.725578 - Reducer 3 requested input
+2024-04-18 20:02:11.567292 - Mapper received request
+2024-04-18 20:02:11.575266 - Partitioning completed
+2024-04-18 20:02:11.575643 - {0: [(0, [30.2214411954406, 60.63826278594955]), (0, [15.256211095947226, 62.08885022713485])], 1: [(1, [65.92469227195072, 51.192695664924834])]}
+2024-04-18 20:02:11.576617 - Intermediate file written
+2024-04-18 20:02:11.576719 - Mapper failed
+2024-04-18 20:02:11.579792 - Mapper received request
+2024-04-18 20:02:11.580824 - Partitioning completed
+2024-04-18 20:02:11.580918 - {0: [(0, [30.2214411954406, 60.63826278594955]), (0, [15.256211095947226, 62.08885022713485])], 1: [(1, [65.92469227195072, 51.192695664924834])]}
+2024-04-18 20:02:11.581293 - Intermediate file written
+2024-04-18 20:02:11.609056 - Reducer 2 requested input
+2024-04-18 20:02:11.609534 - Reducer 1 requested input
+2024-04-18 20:02:11.610120 - Reducer 6 requested input
+2024-04-18 20:02:11.610511 - Reducer 5 requested input
+2024-04-18 20:02:11.610678 - Reducer 3 requested input
+2024-04-18 20:02:11.611170 - Reducer 4 requested input
+2024-04-18 20:02:11.621333 - Reducer 5 requested input
+2024-04-18 20:02:11.621373 - Reducer 1 requested input
+2024-04-18 20:02:11.627729 - Reducer 1 requested input
+2024-04-18 20:02:11.633953 - Mapper received request
+2024-04-18 20:02:11.634811 - Partitioning completed
+2024-04-18 20:02:11.634874 - {0: [(0, [30.2214411954406, 60.63826278594955]), (0, [15.256211095947226, 62.08885022713485])], 1: [(1, [65.92469227195072, 51.192695664924834])]}
+2024-04-18 20:02:11.635113 - Intermediate file written
+2024-04-18 20:02:11.654568 - Reducer 2 requested input
+2024-04-18 20:02:11.654760 - Reducer 1 requested input
+2024-04-18 20:02:11.654852 - Reducer 4 requested input
+2024-04-18 20:02:11.654907 - Reducer 3 requested input
+2024-04-18 20:02:11.655531 - Reducer 6 requested input
+2024-04-18 20:02:11.656028 - Reducer 5 requested input
+2024-04-18 20:02:11.664607 - Reducer 4 requested input
+2024-04-18 20:02:11.666147 - Reducer 6 requested input
+2024-04-18 20:02:11.666209 - Reducer 3 requested input
+2024-04-18 20:02:11.666387 - Reducer 5 requested input
+2024-04-18 20:02:11.672704 - Reducer 4 requested input
+2024-04-18 20:02:11.675122 - Reducer 3 requested input
+2024-04-18 20:02:11.675198 - Reducer 6 requested input
+2024-04-18 20:02:11.682452 - Reducer 6 requested input
+2024-04-18 20:02:11.682493 - Reducer 3 requested input
+2024-04-18 20:02:11.688572 - Reducer 3 requested input
+2024-04-18 20:02:11.694989 - Reducer 3 requested input
+2024-04-18 20:02:11.703722 - Mapper received request
+2024-04-18 20:02:11.704926 - Partitioning completed
+2024-04-18 20:02:11.704990 - {0: [(0, [30.2214411954406, 60.63826278594955]), (0, [15.256211095947226, 62.08885022713485])], 1: [(1, [65.92469227195072, 51.192695664924834])]}
+2024-04-18 20:02:11.705204 - Intermediate file written
+2024-04-18 20:02:11.715826 - Reducer 1 requested input
+2024-04-18 20:02:11.715848 - Reducer 4 requested input
+2024-04-18 20:02:11.715939 - Reducer 6 requested input
+2024-04-18 20:02:11.716401 - Reducer 2 requested input
+2024-04-18 20:02:11.716541 - Reducer 3 requested input
+2024-04-18 20:02:11.716638 - Reducer 5 requested input
+2024-04-18 20:13:48.746734 - Mapper received request
+2024-04-18 20:13:48.753374 - Intermediate file written
+2024-04-18 20:13:48.772501 - Reducer 3 requested input
+2024-04-18 20:13:48.776324 - Reducer 5 requested input
+2024-04-18 20:13:48.777014 - Reducer 1 requested input
+2024-04-18 20:13:48.777108 - Reducer 4 requested input
+2024-04-18 20:13:48.778072 - Reducer 2 requested input
+2024-04-18 20:13:48.784522 - Reducer 3 requested input
+2024-04-18 20:13:48.785673 - Reducer 5 requested input
+2024-04-18 20:13:48.786712 - Reducer 4 requested input
+2024-04-18 20:13:48.790797 - Reducer 1 requested input
+2024-04-18 20:13:48.792250 - Reducer 3 requested input
+2024-04-18 20:13:48.796971 - Reducer 3 requested input
+2024-04-18 20:13:48.800573 - Reducer 3 requested input
+2024-04-18 20:13:48.803845 - Reducer 3 requested input
+2024-04-18 20:13:48.806550 - Mapper received request
+2024-04-18 20:13:48.808117 - Intermediate file written
+2024-04-18 20:13:48.815222 - Reducer 2 requested input
+2024-04-18 20:13:48.815435 - Reducer 1 requested input
+2024-04-18 20:13:48.815512 - Reducer 3 requested input
+2024-04-18 20:13:48.815907 - Reducer 4 requested input
+2024-04-18 20:13:48.816039 - Reducer 5 requested input
+2024-04-18 20:13:48.819425 - Reducer 1 requested input
+2024-04-18 20:13:48.822682 - Reducer 1 requested input
+2024-04-18 20:13:48.825843 - Mapper received request
+2024-04-18 20:13:48.827025 - Intermediate file written
+2024-04-18 20:13:48.836719 - Reducer 3 requested input
+2024-04-18 20:13:48.836863 - Reducer 2 requested input
+2024-04-18 20:13:48.836944 - Reducer 4 requested input
+2024-04-18 20:13:48.837442 - Reducer 5 requested input
+2024-04-18 20:13:48.837554 - Reducer 1 requested input
+2024-04-18 20:13:48.841918 - Reducer 2 requested input
+2024-04-18 20:13:48.844383 - Mapper received request
+2024-04-18 20:13:48.845688 - Intermediate file written
+2024-04-18 20:13:48.853573 - Reducer 4 requested input
+2024-04-18 20:13:48.853704 - Reducer 5 requested input
+2024-04-18 20:13:48.853870 - Reducer 1 requested input
+2024-04-18 20:13:48.854176 - Reducer 2 requested input
+2024-04-18 20:13:48.854415 - Reducer 3 requested input
+2024-04-18 20:13:48.859542 - Reducer 1 requested input
+2024-04-18 20:13:48.859612 - Reducer 3 requested input
+2024-04-18 20:13:48.859706 - Reducer 5 requested input
+2024-04-18 20:13:48.863851 - Reducer 3 requested input
+2024-04-18 20:13:48.870951 - Mapper received request
+2024-04-18 20:13:48.872134 - Intermediate file written
+2024-04-18 20:13:48.882230 - Reducer 3 requested input
+2024-04-18 20:13:48.882465 - Reducer 1 requested input
+2024-04-18 20:13:48.882692 - Reducer 4 requested input
+2024-04-18 20:13:48.883120 - Reducer 2 requested input
+2024-04-18 20:13:48.883142 - Reducer 5 requested input
+2024-04-18 20:13:48.886355 - Reducer 1 requested input
+2024-04-18 20:13:48.888762 - Mapper received request
+2024-04-18 20:13:48.889818 - Intermediate file written
+2024-04-18 20:13:48.899945 - Reducer 3 requested input
+2024-04-18 20:13:48.900319 - Reducer 1 requested input
+2024-04-18 20:13:48.900514 - Reducer 4 requested input
+2024-04-18 20:13:48.901034 - Reducer 5 requested input
+2024-04-18 20:13:48.901152 - Reducer 2 requested input
+2024-04-18 20:13:48.904571 - Reducer 3 requested input
+2024-04-18 20:13:48.907029 - Reducer 1 requested input
+2024-04-18 20:13:48.907084 - Reducer 2 requested input
+2024-04-18 20:13:48.907324 - Reducer 5 requested input
+2024-04-18 20:13:48.911545 - Reducer 5 requested input
+2024-04-18 20:13:48.914841 - Reducer 5 requested input
+2024-04-18 20:13:48.918180 - Mapper received request
+2024-04-18 20:13:48.919330 - Intermediate file written
+2024-04-18 20:13:48.926646 - Reducer 4 requested input
+2024-04-18 20:13:48.926675 - Reducer 5 requested input
+2024-04-18 20:13:48.926809 - Reducer 2 requested input
+2024-04-18 20:13:48.927289 - Reducer 3 requested input
+2024-04-18 20:13:48.927719 - Reducer 1 requested input
+2024-04-18 20:13:48.931788 - Reducer 1 requested input
+2024-04-18 20:13:48.931827 - Reducer 2 requested input
+2024-04-18 20:13:48.931945 - Reducer 3 requested input
+2024-04-18 20:13:48.935844 - Reducer 3 requested input
+2024-04-18 20:13:48.935873 - Reducer 2 requested input
+2024-04-18 20:13:48.938620 - Mapper received request
+2024-04-18 20:13:48.939778 - Intermediate file written
+2024-04-18 20:13:48.949885 - Reducer 2 requested input
+2024-04-18 20:13:48.950038 - Reducer 1 requested input
+2024-04-18 20:13:48.950277 - Reducer 4 requested input
+2024-04-18 20:13:48.950648 - Reducer 3 requested input
+2024-04-18 20:13:48.950872 - Reducer 5 requested input
+2024-04-18 20:13:48.954115 - Reducer 4 requested input
+2024-04-18 20:13:48.954384 - Reducer 5 requested input
+2024-04-18 20:13:48.958648 - Reducer 4 requested input
+2024-04-18 20:13:48.958694 - Reducer 5 requested input
+2024-04-18 20:13:48.962494 - Reducer 5 requested input
+2024-04-18 20:13:48.962650 - Reducer 4 requested input
+2024-04-18 20:13:48.965857 - Reducer 5 requested input
+2024-04-18 20:13:48.968969 - Reducer 5 requested input
+2024-04-18 20:13:48.971495 - Mapper received request
+2024-04-18 20:13:48.972621 - Intermediate file written
+2024-04-18 20:13:48.972665 - Mapper failed
+2024-04-18 20:13:48.973775 - Mapper received request
+2024-04-18 20:13:48.974978 - Intermediate file written
+2024-04-18 20:13:48.981399 - Reducer 2 requested input
+2024-04-18 20:13:48.981596 - Reducer 4 requested input
+2024-04-18 20:13:48.981724 - Reducer 3 requested input
+2024-04-18 20:13:48.982251 - Reducer 1 requested input
+2024-04-18 20:13:48.982441 - Reducer 5 requested input
+2024-04-18 20:13:48.986209 - Reducer 3 requested input
+2024-04-18 20:13:48.986275 - Reducer 1 requested input
+2024-04-18 20:13:48.989062 - Mapper received request
+2024-04-18 20:13:48.990154 - Intermediate file written
+2024-04-18 20:13:49.001074 - Reducer 5 requested input
+2024-04-18 20:13:49.001151 - Reducer 1 requested input
+2024-04-18 20:13:49.001195 - Reducer 3 requested input
+2024-04-18 20:13:49.001302 - Reducer 2 requested input
+2024-04-18 20:13:49.001775 - Reducer 4 requested input
+2024-04-18 20:13:49.005284 - Reducer 5 requested input
+2024-04-18 20:13:49.005428 - Reducer 4 requested input
+2024-04-18 20:13:49.009531 - Reducer 5 requested input
+2024-04-18 20:13:49.011989 - Mapper received request
+2024-04-18 20:13:49.013016 - Intermediate file written
+2024-04-18 20:13:49.022478 - Reducer 1 requested input
+2024-04-18 20:13:49.022559 - Reducer 5 requested input
+2024-04-18 20:13:49.023018 - Reducer 4 requested input
+2024-04-18 20:13:49.023137 - Reducer 3 requested input
+2024-04-18 20:13:49.023462 - Reducer 2 requested input
+2024-04-18 20:13:49.028041 - Reducer 5 requested input
+2024-04-18 20:13:49.028173 - Reducer 2 requested input
+2024-04-18 20:13:49.032549 - Reducer 5 requested input
+2024-04-18 20:13:49.032611 - Reducer 2 requested input
+2024-04-18 20:13:49.036803 - Reducer 2 requested input
+2024-04-18 20:13:49.039827 - Mapper received request
+2024-04-18 20:13:49.041094 - Intermediate file written
+2024-04-18 20:13:49.041162 - Mapper failed
+2024-04-18 20:13:49.042379 - Mapper received request
+2024-04-18 20:13:49.043338 - Intermediate file written
+2024-04-18 20:13:49.043382 - Mapper failed
+2024-04-18 20:13:49.044034 - Mapper received request
+2024-04-18 20:13:49.044758 - Intermediate file written
+2024-04-18 20:13:49.051006 - Reducer 5 requested input
+2024-04-18 20:13:49.051216 - Reducer 4 requested input
+2024-04-18 20:13:49.051589 - Reducer 1 requested input
+2024-04-18 20:13:49.051745 - Reducer 2 requested input
+2024-04-18 20:13:49.051788 - Reducer 3 requested input
+2024-04-18 20:13:49.060924 - Reducer 5 requested input
+2024-04-18 20:13:49.061798 - Reducer 1 requested input
+2024-04-18 20:13:49.063588 - Reducer 2 requested input
+2024-04-18 20:13:49.072749 - Reducer 1 requested input
+2024-04-18 20:13:49.081794 - Mapper received request
+2024-04-18 20:13:49.083108 - Intermediate file written
+2024-04-18 20:13:49.083163 - Mapper failed
+2024-04-18 20:13:49.083781 - Mapper received request
+2024-04-18 20:13:49.084835 - Intermediate file written
+2024-04-18 20:13:49.098926 - Reducer 2 requested input
+2024-04-18 20:13:49.099088 - Reducer 3 requested input
+2024-04-18 20:13:49.099829 - Reducer 4 requested input
+2024-04-18 20:13:49.099998 - Reducer 5 requested input
+2024-04-18 20:13:49.100188 - Reducer 1 requested input
+2024-04-18 20:13:49.104126 - Reducer 4 requested input
+2024-04-18 20:13:49.104171 - Reducer 3 requested input
+2024-04-18 20:13:49.104298 - Reducer 5 requested input
+2024-04-18 20:13:49.108847 - Reducer 5 requested input
+2024-04-18 20:13:49.108883 - Reducer 4 requested input
+2024-04-18 20:13:49.112545 - Reducer 5 requested input
+2024-04-18 20:13:49.115025 - Mapper received request
+2024-04-18 20:13:49.116227 - Intermediate file written
+2024-04-18 20:13:49.116275 - Mapper failed
+2024-04-18 20:13:49.117135 - Mapper received request
+2024-04-18 20:13:49.118110 - Intermediate file written
+2024-04-18 20:13:49.124865 - Reducer 1 requested input
+2024-04-18 20:13:49.124968 - Reducer 2 requested input
+2024-04-18 20:13:49.125084 - Reducer 3 requested input
+2024-04-18 20:13:49.125171 - Reducer 5 requested input
+2024-04-18 20:13:49.125570 - Reducer 4 requested input
+2024-04-18 20:13:49.129856 - Reducer 4 requested input
+2024-04-18 20:13:49.129882 - Reducer 1 requested input
+2024-04-18 20:13:49.132590 - Mapper received request
+2024-04-18 20:13:49.133687 - Intermediate file written
+2024-04-18 20:13:49.142740 - Reducer 5 requested input
+2024-04-18 20:13:49.142911 - Reducer 3 requested input
+2024-04-18 20:13:49.143009 - Reducer 4 requested input
+2024-04-18 20:13:49.143095 - Reducer 2 requested input
+2024-04-18 20:13:49.143819 - Reducer 1 requested input
+2024-04-18 20:13:49.147248 - Reducer 4 requested input
+2024-04-18 20:13:49.147273 - Reducer 1 requested input
+2024-04-18 20:13:49.151169 - Reducer 1 requested input
+2024-04-18 20:13:49.151194 - Reducer 4 requested input
+2024-04-18 20:13:49.155129 - Reducer 4 requested input
+2024-04-18 20:13:49.155154 - Reducer 1 requested input
+2024-04-18 20:13:49.159590 - Reducer 4 requested input
+2024-04-18 20:13:49.159621 - Reducer 1 requested input
+2024-04-18 20:13:49.163343 - Reducer 4 requested input
+2024-04-18 20:13:49.163398 - Reducer 1 requested input
+2024-04-18 20:13:49.166115 - Mapper received request
+2024-04-18 20:13:49.167283 - Intermediate file written
+2024-04-18 20:13:49.167330 - Mapper failed
+2024-04-18 20:13:49.168251 - Mapper received request
+2024-04-18 20:13:49.169116 - Intermediate file written
+2024-04-18 20:13:49.169160 - Mapper failed
+2024-04-18 20:13:49.169695 - Mapper received request
+2024-04-18 20:13:49.171776 - Intermediate file written
+2024-04-18 20:13:49.179757 - Reducer 1 requested input
+2024-04-18 20:13:49.179961 - Reducer 5 requested input
+2024-04-18 20:13:49.180267 - Reducer 4 requested input
+2024-04-18 20:13:49.181100 - Reducer 3 requested input
+2024-04-18 20:13:49.181126 - Reducer 2 requested input
+2024-04-18 20:13:49.184445 - Reducer 5 requested input
+2024-04-18 20:13:49.185328 - Reducer 3 requested input
+2024-04-18 20:13:49.185353 - Reducer 2 requested input
+2024-04-18 20:13:49.189150 - Reducer 3 requested input
+2024-04-18 20:13:49.189199 - Reducer 2 requested input
+2024-04-18 20:13:49.193785 - Reducer 2 requested input
+2024-04-18 20:13:49.193810 - Reducer 3 requested input
+2024-04-18 20:13:49.196681 - Mapper received request
+2024-04-18 20:13:49.201143 - Intermediate file written
+2024-04-18 20:13:49.201203 - Mapper failed
+2024-04-18 20:13:49.201965 - Mapper received request
+2024-04-18 20:13:49.202879 - Intermediate file written
+2024-04-18 20:13:49.213872 - Reducer 2 requested input
+2024-04-18 20:13:49.213952 - Reducer 3 requested input
+2024-04-18 20:13:49.214076 - Reducer 4 requested input
+2024-04-18 20:13:49.214628 - Reducer 1 requested input
+2024-04-18 20:13:49.214811 - Reducer 5 requested input
+2024-04-18 20:13:49.218735 - Reducer 2 requested input
+2024-04-18 20:13:49.218761 - Reducer 4 requested input
+2024-04-18 20:13:49.222231 - Reducer 4 requested input
+2024-04-18 20:13:49.225236 - Mapper received request
+2024-04-18 20:13:49.226373 - Intermediate file written
+2024-04-18 20:13:49.226421 - Mapper failed
+2024-04-18 20:13:49.227372 - Mapper received request
+2024-04-18 20:13:49.228328 - Intermediate file written
+2024-04-18 20:13:49.236576 - Reducer 1 requested input
+2024-04-18 20:13:49.236674 - Reducer 3 requested input
+2024-04-18 20:13:49.236727 - Reducer 5 requested input
+2024-04-18 20:13:49.236918 - Reducer 2 requested input
+2024-04-18 20:13:49.236972 - Reducer 4 requested input
+2024-04-18 20:13:49.241514 - Reducer 3 requested input
+2024-04-18 20:13:49.245641 - Reducer 3 requested input
+2024-04-18 20:13:49.249048 - Reducer 3 requested input
+2024-04-18 20:13:49.252228 - Reducer 3 requested input
+2024-04-18 20:13:49.255592 - Reducer 3 requested input
+2024-04-18 20:13:49.259744 - Reducer 3 requested input
+2024-04-18 20:13:49.263142 - Reducer 3 requested input
+2024-04-18 20:13:49.266380 - Reducer 3 requested input
+2024-04-18 20:13:49.268963 - Mapper received request
+2024-04-18 20:13:49.270034 - Intermediate file written
+2024-04-18 20:13:49.277398 - Reducer 1 requested input
+2024-04-18 20:13:49.277434 - Reducer 3 requested input
+2024-04-18 20:13:49.277710 - Reducer 5 requested input
+2024-04-18 20:13:49.277974 - Reducer 4 requested input
+2024-04-18 20:13:49.278242 - Reducer 2 requested input
+2024-04-18 20:13:49.281500 - Reducer 1 requested input
+2024-04-18 20:13:49.281754 - Reducer 2 requested input
+2024-04-18 20:13:49.285066 - Reducer 1 requested input
+2024-04-18 20:13:49.288308 - Reducer 1 requested input
+2024-04-18 20:13:49.292201 - Reducer 1 requested input
+2024-04-18 20:13:49.294837 - Mapper received request
+2024-04-18 20:13:49.295891 - Intermediate file written
+2024-04-18 20:13:49.305008 - Reducer 3 requested input
+2024-04-18 20:13:49.305215 - Reducer 4 requested input
+2024-04-18 20:13:49.306015 - Reducer 2 requested input
+2024-04-18 20:13:49.306309 - Reducer 5 requested input
+2024-04-18 20:13:49.306383 - Reducer 1 requested input
+2024-04-18 20:13:49.310927 - Reducer 4 requested input
+2024-04-18 20:13:49.311337 - Reducer 3 requested input
+2024-04-18 20:13:49.311645 - Reducer 5 requested input
+2024-04-18 20:13:49.312233 - Reducer 1 requested input
+2024-04-18 20:13:49.315330 - Reducer 3 requested input
+2024-04-18 20:13:49.315485 - Reducer 1 requested input
+2024-04-18 20:13:49.318449 - Reducer 3 requested input
+2024-04-18 20:13:49.321340 - Reducer 3 requested input
+2024-04-18 20:13:49.323739 - Mapper received request
+2024-04-18 20:13:49.325133 - Intermediate file written
+2024-04-18 20:13:49.325198 - Mapper failed
+2024-04-18 20:13:49.326072 - Mapper received request
+2024-04-18 20:13:49.327061 - Intermediate file written
+2024-04-18 20:13:49.327114 - Mapper failed
+2024-04-18 20:13:49.327850 - Mapper received request
+2024-04-18 20:13:49.328661 - Intermediate file written
+2024-04-18 20:13:49.328706 - Mapper failed
+2024-04-18 20:13:49.329285 - Mapper received request
+2024-04-18 20:13:49.329958 - Intermediate file written
+2024-04-18 20:13:49.337173 - Reducer 3 requested input
+2024-04-18 20:13:49.337228 - Reducer 1 requested input
+2024-04-18 20:13:49.337864 - Reducer 2 requested input
+2024-04-18 20:13:49.337925 - Reducer 5 requested input
+2024-04-18 20:13:49.338135 - Reducer 4 requested input
+2024-04-18 20:13:49.343317 - Reducer 1 requested input
+2024-04-18 20:13:49.344521 - Reducer 3 requested input
+2024-04-18 20:13:49.345516 - Reducer 5 requested input
+2024-04-18 20:13:49.345694 - Reducer 4 requested input
+2024-04-18 20:13:49.349670 - Reducer 1 requested input
+2024-04-18 20:13:49.350566 - Reducer 3 requested input
+2024-04-18 20:13:49.351891 - Reducer 5 requested input
+2024-04-18 20:13:49.355146 - Mapper received request
+2024-04-18 20:13:49.356421 - Intermediate file written
+2024-04-18 20:13:49.356501 - Mapper failed
+2024-04-18 20:13:49.357360 - Mapper received request
+2024-04-18 20:13:49.358373 - Intermediate file written
+2024-04-18 20:13:49.370682 - Reducer 4 requested input
+2024-04-18 20:13:49.370772 - Reducer 1 requested input
+2024-04-18 20:13:49.371014 - Reducer 5 requested input
+2024-04-18 20:13:49.371637 - Reducer 3 requested input
+2024-04-18 20:13:49.371783 - Reducer 2 requested input
+2024-04-18 20:13:49.377575 - Reducer 1 requested input
+2024-04-18 20:13:49.377785 - Reducer 3 requested input
+2024-04-18 20:13:49.381742 - Reducer 1 requested input
+2024-04-18 20:13:49.381770 - Reducer 3 requested input
+2024-04-18 20:13:49.385018 - Reducer 3 requested input
+2024-04-18 20:13:49.387902 - Reducer 3 requested input
+2024-04-18 20:13:49.390150 - Mapper received request
+2024-04-18 20:13:49.391530 - Intermediate file written
+2024-04-18 20:13:49.391589 - Mapper failed
+2024-04-18 20:13:49.393193 - Mapper received request
+2024-04-18 20:13:49.394241 - Intermediate file written
+2024-04-18 20:13:49.400933 - Reducer 1 requested input
+2024-04-18 20:13:49.401030 - Reducer 2 requested input
+2024-04-18 20:13:49.401191 - Reducer 5 requested input
+2024-04-18 20:13:49.401320 - Reducer 4 requested input
+2024-04-18 20:13:49.402010 - Reducer 3 requested input
+2024-04-18 20:13:49.406255 - Reducer 5 requested input
+2024-04-18 20:13:49.406291 - Reducer 2 requested input
+2024-04-18 20:13:49.406374 - Reducer 3 requested input
+2024-04-18 20:13:49.410929 - Reducer 5 requested input
+2024-04-18 20:13:49.413640 - Mapper received request
+2024-04-18 20:13:49.414749 - Intermediate file written
+2024-04-18 20:13:49.434893 - Reducer 4 requested input
+2024-04-18 20:13:49.434997 - Reducer 3 requested input
+2024-04-18 20:13:49.435012 - Reducer 2 requested input
+2024-04-18 20:13:49.435128 - Reducer 1 requested input
+2024-04-18 20:13:49.435223 - Reducer 5 requested input
+2024-04-18 20:13:49.439694 - Reducer 2 requested input
+2024-04-18 20:13:49.443402 - Reducer 2 requested input
+2024-04-18 20:13:49.446379 - Mapper received request
+2024-04-18 20:13:49.447462 - Intermediate file written
+2024-04-18 20:13:49.460194 - Reducer 4 requested input
+2024-04-18 20:13:49.460279 - Reducer 5 requested input
+2024-04-18 20:13:49.460407 - Reducer 3 requested input
+2024-04-18 20:13:49.460482 - Reducer 1 requested input
+2024-04-18 20:13:49.460513 - Reducer 2 requested input
+2024-04-18 20:13:49.464191 - Reducer 3 requested input
+2024-04-18 20:13:49.464217 - Reducer 5 requested input
+2024-04-18 20:13:49.467582 - Reducer 5 requested input
+2024-04-18 20:13:49.470528 - Reducer 5 requested input
+2024-04-18 20:13:49.472798 - Mapper received request
+2024-04-18 20:13:49.474007 - Intermediate file written
+2024-04-18 20:13:49.484586 - Reducer 4 requested input
+2024-04-18 20:13:49.484605 - Reducer 2 requested input
+2024-04-18 20:13:49.484687 - Reducer 3 requested input
+2024-04-18 20:13:49.484755 - Reducer 5 requested input
+2024-04-18 20:13:49.484804 - Reducer 1 requested input
+2024-04-18 20:13:49.490219 - Reducer 3 requested input
+2024-04-18 20:13:49.490257 - Reducer 5 requested input
+2024-04-18 20:13:49.490381 - Reducer 4 requested input
+2024-04-18 20:13:49.494969 - Reducer 5 requested input
+2024-04-18 20:13:49.495039 - Reducer 3 requested input
+2024-04-18 20:13:49.498942 - Reducer 3 requested input
+2024-04-18 20:13:49.498979 - Reducer 5 requested input
+2024-04-18 20:17:54.479851 - Mapper received request
+2024-04-18 20:17:54.486562 - Intermediate file written
+2024-04-18 20:17:54.486644 - Mapper failed
+2024-04-18 20:17:54.488250 - Mapper received request
+2024-04-18 20:17:54.490078 - Intermediate file written
+2024-04-18 20:17:54.490158 - Mapper failed
+2024-04-18 20:17:54.491157 - Mapper received request
+2024-04-18 20:17:54.492852 - Intermediate file written
+2024-04-18 20:17:54.492940 - Mapper failed
+2024-04-18 20:17:54.494310 - Mapper received request
+2024-04-18 20:17:54.496301 - Intermediate file written
+2024-04-18 20:18:24.519551 - Mapper received request
+2024-04-18 20:20:13.870231 - Mapper received request
+2024-04-18 20:26:22.170753 - Mapper received request
+2024-04-18 20:26:22.180475 - Intermediate file written
+2024-04-18 20:26:22.208717 - Reducer 1 requested input
+2024-04-18 20:26:22.209859 - Reducer 2 requested input
+2024-04-18 20:26:22.210174 - Reducer 4 requested input
+2024-04-18 20:26:22.210425 - Reducer 3 requested input
+2024-04-18 20:26:22.216819 - Reducer 1 requested input
+2024-04-18 20:26:22.220775 - Reducer 3 requested input
+2024-04-18 20:26:22.221114 - Reducer 4 requested input
+2024-04-18 20:26:22.221253 - Reducer 2 requested input
+2024-04-18 20:26:22.224913 - Reducer 1 requested input
+2024-04-18 20:26:22.228118 - Reducer 3 requested input
+2024-04-18 20:26:22.228154 - Reducer 4 requested input
+2024-04-18 20:26:22.232778 - Reducer 3 requested input
+2024-04-18 20:26:22.236976 - Mapper received request
+2024-04-18 20:26:22.237965 - Intermediate file written
+2024-04-18 20:26:22.246738 - Reducer 1 requested input
+2024-04-18 20:26:22.246990 - Reducer 2 requested input
+2024-04-18 20:26:22.247124 - Reducer 3 requested input
+2024-04-18 20:26:22.247294 - Reducer 4 requested input
+2024-04-18 20:26:22.252295 - Reducer 1 requested input
+2024-04-18 20:26:22.252670 - Reducer 4 requested input
+2024-04-18 20:26:22.257671 - Reducer 1 requested input
+2024-04-18 20:26:22.262596 - Reducer 1 requested input
+2024-04-18 20:26:22.266560 - Reducer 1 requested input
+2024-04-18 20:26:22.270979 - Reducer 1 requested input
+2024-04-18 20:26:22.275398 - Reducer 1 requested input
+2024-04-18 20:26:22.279451 - Reducer 1 requested input
+2024-04-18 20:26:22.282945 - Mapper received request
+2024-04-18 20:26:22.283932 - Intermediate file written
+2024-04-18 20:26:22.294171 - Reducer 3 requested input
+2024-04-18 20:26:22.294193 - Reducer 1 requested input
+2024-04-18 20:26:22.294218 - Reducer 2 requested input
+2024-04-18 20:26:22.294663 - Reducer 4 requested input
+2024-04-18 20:26:22.300052 - Reducer 3 requested input
+2024-04-18 20:26:22.304411 - Reducer 3 requested input
+2024-04-18 20:26:22.309091 - Reducer 3 requested input
+2024-04-18 20:26:22.312948 - Reducer 3 requested input
+2024-04-18 20:26:22.316533 - Mapper received request
+2024-04-18 20:26:22.317464 - Intermediate file written
+2024-04-18 20:26:22.317520 - Mapper failed
+2024-04-18 20:26:22.318406 - Mapper received request
+2024-04-18 20:26:22.319362 - Intermediate file written
+2024-04-18 20:26:22.331517 - Reducer 3 requested input
+2024-04-18 20:26:22.331646 - Reducer 1 requested input
+2024-04-18 20:26:22.331705 - Reducer 4 requested input
+2024-04-18 20:26:22.331783 - Reducer 2 requested input
+2024-04-18 20:26:22.337333 - Reducer 2 requested input
+2024-04-18 20:27:13.873656 - Mapper received request
+2024-04-18 20:27:13.878038 - Intermediate file written
+2024-04-18 20:27:13.878112 - Mapper failed
+2024-04-18 20:27:13.879637 - Mapper received request
+2024-04-18 20:27:13.881283 - Intermediate file written
+2024-04-18 20:27:13.881347 - Mapper failed
+2024-04-18 20:27:13.883459 - Mapper received request
+2024-04-18 20:27:13.884675 - Intermediate file written
+2024-04-18 20:27:13.897672 - Reducer 3 requested input
+2024-04-18 20:27:13.898058 - Reducer 2 requested input
+2024-04-18 20:27:13.899452 - Reducer 6 requested input
+2024-04-18 20:27:13.899567 - Reducer 4 requested input
+2024-04-18 20:27:13.900250 - Reducer 1 requested input
+2024-04-18 20:27:13.900421 - Reducer 5 requested input
+2024-04-18 20:27:13.905125 - Reducer 6 requested input
+2024-04-18 20:27:13.906448 - Reducer 4 requested input
+2024-04-18 20:27:13.906498 - Reducer 1 requested input
+2024-04-18 20:27:13.907174 - Reducer 5 requested input
+2024-04-18 20:27:13.911205 - Reducer 4 requested input
+2024-04-18 20:27:13.911317 - Reducer 5 requested input
+2024-04-18 20:27:13.911387 - Reducer 1 requested input
+2024-04-18 20:27:13.915971 - Reducer 4 requested input
+2024-04-18 20:27:13.921038 - Reducer 5 requested input
+2024-04-18 20:27:13.921122 - Reducer 1 requested input
+2024-04-18 20:27:13.924507 - Reducer 4 requested input
+2024-04-18 20:27:13.925930 - Reducer 5 requested input
+2024-04-18 20:27:13.925956 - Reducer 1 requested input
+2024-04-18 20:27:13.928273 - Reducer 4 requested input
+2024-04-18 20:27:13.929319 - Reducer 5 requested input
+2024-04-18 20:27:13.931690 - Mapper received request
+2024-04-18 20:27:13.932801 - Intermediate file written
+2024-04-18 20:27:13.932851 - Mapper failed
+2024-04-18 20:27:13.933674 - Mapper received request
+2024-04-18 20:27:13.934513 - Intermediate file written
+2024-04-18 20:27:13.934559 - Mapper failed
+2024-04-18 20:27:13.935190 - Mapper received request
+2024-04-18 20:27:13.935905 - Intermediate file written
+2024-04-18 20:27:13.944394 - Reducer 4 requested input
+2024-04-18 20:27:13.944666 - Reducer 1 requested input
+2024-04-18 20:27:13.945868 - Reducer 2 requested input
+2024-04-18 20:27:13.945916 - Reducer 6 requested input
+2024-04-18 20:27:13.946141 - Reducer 5 requested input
+2024-04-18 20:27:13.946490 - Reducer 3 requested input
+2024-04-18 20:27:13.949276 - Reducer 4 requested input
+2024-04-18 20:27:13.950854 - Reducer 3 requested input
+2024-04-18 20:27:13.950882 - Reducer 5 requested input
+2024-04-18 20:27:13.952849 - Reducer 4 requested input
+2024-04-18 20:27:13.956539 - Reducer 4 requested input
+2024-04-18 20:27:13.959000 - Mapper received request
+2024-04-18 20:27:13.960135 - Intermediate file written
+2024-04-18 20:27:13.971346 - Reducer 1 requested input
+2024-04-18 20:27:13.971541 - Reducer 2 requested input
+2024-04-18 20:27:13.972223 - Reducer 6 requested input
+2024-04-18 20:27:13.972546 - Reducer 4 requested input
+2024-04-18 20:27:13.972723 - Reducer 5 requested input
+2024-04-18 20:27:13.972786 - Reducer 3 requested input
+2024-04-18 20:27:13.977783 - Reducer 4 requested input
+2024-04-18 20:27:13.978168 - Reducer 1 requested input
+2024-04-18 20:27:13.978644 - Reducer 5 requested input
+2024-04-18 20:27:13.978803 - Reducer 3 requested input
+2024-04-18 20:27:13.985235 - Reducer 4 requested input
+2024-04-18 20:27:13.986255 - Reducer 3 requested input
+2024-04-18 20:27:13.986365 - Reducer 5 requested input
+2024-04-18 20:27:13.992466 - Reducer 3 requested input
+2024-04-18 20:27:13.992573 - Reducer 4 requested input
+2024-04-18 20:27:13.992647 - Reducer 5 requested input
+2024-04-18 20:27:13.998680 - Reducer 4 requested input
+2024-04-18 20:27:13.998719 - Reducer 5 requested input
+2024-04-18 20:27:14.005176 - Reducer 5 requested input
+2024-04-18 20:28:11.159539 - Mapper received request
+2024-04-18 20:28:11.166189 - Intermediate file written
+2024-04-18 20:28:11.191182 - Reducer 1 requested input
+2024-04-18 20:28:11.191647 - Reducer 2 requested input
+2024-04-18 20:28:11.192272 - Reducer 3 requested input
+2024-04-18 20:28:11.192701 - Reducer 5 requested input
+2024-04-18 20:28:11.193170 - Reducer 4 requested input
+2024-04-18 20:28:11.199638 - Reducer 2 requested input
+2024-04-18 20:28:11.199816 - Reducer 3 requested input
+2024-04-18 20:28:11.200036 - Reducer 5 requested input
+2024-04-18 20:28:11.200411 - Reducer 4 requested input
+2024-04-18 20:28:11.205502 - Reducer 3 requested input
+2024-04-18 20:28:11.205993 - Reducer 5 requested input
+2024-04-18 20:28:11.206090 - Reducer 4 requested input
+2024-04-18 20:28:11.209924 - Reducer 5 requested input
+2024-04-18 20:28:11.209956 - Reducer 4 requested input
+2024-04-18 20:28:11.213584 - Reducer 5 requested input
+2024-04-18 20:28:11.216704 - Reducer 5 requested input
+2024-04-18 20:28:11.219265 - Mapper received request
+2024-04-18 20:28:11.220585 - Intermediate file written
+2024-04-18 20:28:11.220646 - Mapper failed
+2024-04-18 20:28:11.222288 - Mapper received request
+2024-04-18 20:28:11.224671 - Intermediate file written
+2024-04-18 20:28:11.240963 - Reducer 1 requested input
+2024-04-18 20:28:11.240996 - Reducer 4 requested input
+2024-04-18 20:28:11.241627 - Reducer 3 requested input
+2024-04-18 20:28:11.241801 - Reducer 5 requested input
+2024-04-18 20:28:11.241958 - Reducer 2 requested input
+2024-04-18 20:28:11.245785 - Reducer 3 requested input
+2024-04-18 20:28:11.245822 - Reducer 5 requested input
+2024-04-18 20:28:11.249344 - Reducer 5 requested input
+2024-04-18 20:28:11.251805 - Mapper received request
+2024-04-18 20:28:11.253242 - Intermediate file written
+2024-04-18 20:28:11.253299 - Mapper failed
+2024-04-18 20:28:11.254481 - Mapper received request
+2024-04-18 20:28:11.255675 - Intermediate file written
+2024-04-18 20:28:11.262598 - Reducer 4 requested input
+2024-04-18 20:28:11.262724 - Reducer 3 requested input
+2024-04-18 20:28:11.262847 - Reducer 5 requested input
+2024-04-18 20:28:11.262967 - Reducer 2 requested input
+2024-04-18 20:28:11.263438 - Reducer 1 requested input
+2024-04-18 20:28:11.267211 - Reducer 3 requested input
+2024-04-18 20:28:11.267426 - Reducer 1 requested input
+2024-04-18 20:28:11.267455 - Reducer 4 requested input
+2024-04-18 20:28:11.271738 - Reducer 3 requested input
+2024-04-18 20:28:11.274979 - Reducer 3 requested input
+2024-04-18 20:28:11.277749 - Reducer 3 requested input
+2024-04-18 20:28:11.280229 - Mapper received request
+2024-04-18 20:28:11.281299 - Intermediate file written
+2024-04-18 20:28:11.281347 - Mapper failed
+2024-04-18 20:28:11.281981 - Mapper received request
+2024-04-18 20:28:11.282840 - Intermediate file written
+2024-04-18 20:28:11.290976 - Reducer 1 requested input
+2024-04-18 20:28:11.291683 - Reducer 4 requested input
+2024-04-18 20:28:11.292082 - Reducer 3 requested input
+2024-04-18 20:28:11.292193 - Reducer 5 requested input
+2024-04-18 20:28:11.292503 - Reducer 2 requested input
+2024-04-18 20:28:11.296333 - Reducer 4 requested input
+2024-04-18 20:28:11.296706 - Reducer 3 requested input
+2024-04-18 20:28:11.297300 - Reducer 5 requested input
+2024-04-18 20:28:11.297421 - Reducer 2 requested input
+2024-04-18 20:28:11.301804 - Reducer 3 requested input
+2024-04-18 20:28:11.302023 - Reducer 4 requested input
+2024-04-18 20:28:11.302104 - Reducer 5 requested input
+2024-04-18 20:28:11.305313 - Mapper received request
+2024-04-18 20:28:11.306466 - Intermediate file written
+2024-04-18 20:28:11.306511 - Mapper failed
+2024-04-18 20:28:11.307257 - Mapper received request
+2024-04-18 20:28:11.308011 - Intermediate file written
+2024-04-18 20:28:11.314266 - Reducer 1 requested input
+2024-04-18 20:28:11.314321 - Reducer 4 requested input
+2024-04-18 20:28:11.314486 - Reducer 3 requested input
+2024-04-18 20:28:11.314616 - Reducer 5 requested input
+2024-04-18 20:28:11.315039 - Reducer 2 requested input
+2024-04-18 20:28:11.318897 - Reducer 4 requested input
+2024-04-18 20:28:11.320045 - Reducer 3 requested input
+2024-04-18 20:28:11.320100 - Reducer 2 requested input
+2024-04-18 20:28:11.324377 - Reducer 2 requested input
+2024-04-18 20:28:11.324403 - Reducer 3 requested input
+2024-04-18 20:28:11.327594 - Reducer 3 requested input
+2024-04-18 20:28:11.330482 - Reducer 3 requested input
+2024-04-18 20:28:11.333333 - Reducer 3 requested input
+2024-04-18 20:28:11.337038 - Reducer 3 requested input
+2024-04-18 20:28:11.339911 - Reducer 3 requested input
+2024-04-18 20:28:11.342291 - Mapper received request
+2024-04-18 20:28:11.343281 - Intermediate file written
+2024-04-18 20:28:11.343325 - Mapper failed
+2024-04-18 20:28:11.343965 - Mapper received request
+2024-04-18 20:28:11.344836 - Intermediate file written
+2024-04-18 20:28:11.353083 - Reducer 1 requested input
+2024-04-18 20:28:11.353549 - Reducer 4 requested input
+2024-04-18 20:28:11.353679 - Reducer 3 requested input
+2024-04-18 20:28:11.355860 - Reducer 5 requested input
+2024-04-18 20:28:11.355889 - Reducer 2 requested input
+2024-04-18 20:28:11.358296 - Reducer 1 requested input
+2024-04-18 20:28:11.359166 - Reducer 5 requested input
+2024-04-18 20:28:11.361369 - Reducer 1 requested input
+2024-04-18 20:28:11.363721 - Mapper received request
+2024-04-18 20:28:11.364789 - Intermediate file written
+2024-04-18 20:28:11.364832 - Mapper failed
+2024-04-18 20:28:11.365651 - Mapper received request
+2024-04-18 20:28:11.366434 - Intermediate file written
+2024-04-18 20:28:11.366474 - Mapper failed
+2024-04-18 20:28:11.367045 - Mapper received request
+2024-04-18 20:28:11.367943 - Intermediate file written
+2024-04-18 20:28:11.368010 - Mapper failed
+2024-04-18 20:28:11.369130 - Mapper received request
+2024-04-18 20:28:11.370194 - Intermediate file written
+2024-04-18 20:28:11.376224 - Reducer 3 requested input
+2024-04-18 20:28:11.376416 - Reducer 4 requested input
+2024-04-18 20:28:11.376707 - Reducer 2 requested input
+2024-04-18 20:28:11.377023 - Reducer 1 requested input
+2024-04-18 20:28:11.377361 - Reducer 5 requested input
+2024-04-18 20:28:11.381277 - Reducer 3 requested input
+2024-04-18 20:28:11.381364 - Reducer 2 requested input
+2024-04-18 20:28:11.381418 - Reducer 4 requested input
+2024-04-18 20:28:11.384851 - Reducer 2 requested input
+2024-04-18 20:28:11.387633 - Mapper received request
+2024-04-18 20:28:11.388690 - Intermediate file written
+2024-04-18 20:28:11.395133 - Reducer 4 requested input
+2024-04-18 20:28:11.395246 - Reducer 1 requested input
+2024-04-18 20:28:11.395516 - Reducer 5 requested input
+2024-04-18 20:28:11.395764 - Reducer 2 requested input
+2024-04-18 20:28:11.396602 - Reducer 3 requested input
+2024-04-18 20:28:11.399861 - Reducer 4 requested input
+2024-04-18 20:28:11.399938 - Reducer 1 requested input
+2024-04-18 20:28:11.400245 - Reducer 5 requested input
+2024-04-18 20:28:11.404405 - Reducer 5 requested input
+2024-04-18 20:28:11.404425 - Reducer 4 requested input
+2024-04-18 20:29:39.233569 - Mapper received request
+2024-04-18 20:29:39.239992 - Intermediate file written
+2024-04-18 20:29:39.263118 - Reducer 4 requested input
+2024-04-18 20:29:39.263602 - Reducer 3 requested input
+2024-04-18 20:29:39.264752 - Reducer 2 requested input
+2024-04-18 20:29:39.265569 - Reducer 5 requested input
+2024-04-18 20:29:39.266524 - Reducer 1 requested input
+2024-04-18 20:29:39.272934 - Reducer 4 requested input
+2024-04-18 20:29:39.273054 - Reducer 3 requested input
+2024-04-18 20:29:39.273524 - Reducer 2 requested input
+2024-04-18 20:29:39.274199 - Reducer 1 requested input
+2024-04-18 20:29:39.274210 - Reducer 5 requested input
+2024-04-18 20:29:39.278471 - Reducer 3 requested input
+2024-04-18 20:29:39.278512 - Reducer 2 requested input
+2024-04-18 20:29:39.278795 - Reducer 1 requested input
+2024-04-18 20:29:39.283061 - Reducer 2 requested input
+2024-04-18 20:29:39.283091 - Reducer 1 requested input
+2024-04-18 20:29:39.287490 - Reducer 2 requested input
+2024-04-18 20:29:39.291007 - Reducer 2 requested input
+2024-04-18 20:29:39.293670 - Mapper received request
+2024-04-18 20:29:39.295000 - Intermediate file written
+2024-04-18 20:29:39.295064 - Mapper failed
+2024-04-18 20:29:39.295875 - Mapper received request
+2024-04-18 20:29:39.296736 - Intermediate file written
+2024-04-18 20:29:39.303415 - Reducer 3 requested input
+2024-04-18 20:29:39.303769 - Reducer 1 requested input
+2024-04-18 20:29:39.303970 - Reducer 2 requested input
+2024-04-18 20:29:39.304694 - Reducer 5 requested input
+2024-04-18 20:29:39.304842 - Reducer 4 requested input
+2024-04-18 20:29:39.308562 - Reducer 3 requested input
+2024-04-18 20:29:39.309927 - Reducer 2 requested input
+2024-04-18 20:29:39.309965 - Reducer 4 requested input
+2024-04-18 20:29:39.309989 - Reducer 5 requested input
+2024-04-18 20:29:39.314461 - Reducer 5 requested input
+2024-04-18 20:29:39.314607 - Reducer 2 requested input
+2024-04-18 20:29:39.314650 - Reducer 4 requested input
+2024-04-18 20:29:39.318549 - Reducer 4 requested input
+2024-04-18 20:29:39.318607 - Reducer 2 requested input
+2024-04-18 20:40:50.988649 - Mapper received request
+2024-04-18 20:40:50.993963 - Intermediate file written
+2024-04-18 20:40:51.013162 - Reducer 1 requested input
+2024-04-18 20:40:51.013693 - Reducer 2 requested input
+2024-04-18 20:40:51.014111 - Reducer 3 requested input
+2024-04-18 20:40:51.020331 - Reducer 1 requested input
+2024-04-18 20:40:51.020753 - Reducer 2 requested input
+2024-04-18 20:40:51.021252 - Reducer 3 requested input
+2024-04-18 20:40:51.027797 - Reducer 2 requested input
+2024-04-18 20:40:51.028044 - Reducer 3 requested input
+2024-04-18 20:40:51.032354 - Reducer 3 requested input
+2024-04-18 20:40:51.035284 - Mapper received request
+2024-04-18 20:40:51.036396 - Intermediate file written
+2024-04-18 20:40:51.036455 - Mapper failed
+2024-04-18 20:40:51.037355 - Mapper received request
+2024-04-18 20:40:51.038368 - Intermediate file written
+2024-04-18 20:40:51.038531 - Mapper failed
+2024-04-18 20:40:51.039345 - Mapper received request
+2024-04-18 20:40:51.040640 - Intermediate file written
+2024-04-18 20:40:51.054633 - Reducer 1 requested input
+2024-04-18 20:40:51.054674 - Reducer 2 requested input
+2024-04-18 20:40:51.054717 - Reducer 3 requested input
+2024-04-18 20:40:51.058558 - Mapper received request
+2024-04-18 20:40:51.059518 - Intermediate file written
+2024-04-18 20:40:51.059570 - Mapper failed
+2024-04-18 20:40:51.060431 - Mapper received request
+2024-04-18 20:40:51.061544 - Intermediate file written
+2024-04-18 20:40:51.061593 - Mapper failed
+2024-04-18 20:40:51.062232 - Mapper received request
+2024-04-18 20:40:51.062833 - Intermediate file written
+2024-04-18 20:40:51.062874 - Mapper failed
+2024-04-18 20:40:51.063328 - Mapper received request
+2024-04-18 20:40:51.063992 - Intermediate file written
+2024-04-18 20:40:51.069334 - Reducer 1 requested input
+2024-04-18 20:40:51.069545 - Reducer 2 requested input
+2024-04-18 20:40:51.069636 - Reducer 3 requested input
+2024-04-18 20:40:51.073253 - Reducer 3 requested input
+2024-04-18 20:40:51.079710 - Reducer 3 requested input
+2024-04-18 20:40:51.086736 - Mapper received request
+2024-04-18 20:40:51.087937 - Intermediate file written
+2024-04-18 20:40:51.108865 - Reducer 1 requested input
+2024-04-18 20:40:51.108919 - Reducer 2 requested input
+2024-04-18 20:40:51.108953 - Reducer 3 requested input
+2024-04-18 20:40:51.113381 - Reducer 1 requested input
+2024-04-18 20:40:51.113455 - Reducer 2 requested input
+2024-04-18 20:40:51.117028 - Reducer 2 requested input
+2024-04-18 20:40:51.119975 - Reducer 2 requested input
+2024-04-18 20:40:51.123372 - Reducer 2 requested input
+2024-04-18 20:41:21.985778 - Mapper received request
+2024-04-18 20:41:21.991933 - Intermediate file written
+2024-04-18 20:41:22.012918 - Reducer 3 requested input
+2024-04-18 20:41:22.014424 - Reducer 1 requested input
+2024-04-18 20:41:22.014484 - Reducer 2 requested input
+2024-04-18 20:41:22.015076 - Reducer 4 requested input
+2024-04-18 20:41:22.021271 - Reducer 3 requested input
+2024-04-18 20:41:22.023053 - Reducer 4 requested input
+2024-04-18 20:41:22.027964 - Reducer 3 requested input
+2024-04-18 20:41:22.029135 - Reducer 4 requested input
+2024-04-18 20:41:22.033239 - Reducer 3 requested input
+2024-04-18 20:41:22.037398 - Reducer 3 requested input
+2024-04-18 20:41:22.041336 - Mapper received request
+2024-04-18 20:41:22.043508 - Intermediate file written
+2024-04-18 20:41:22.043575 - Mapper failed
+2024-04-18 20:41:22.044425 - Mapper received request
+2024-04-18 20:41:22.045370 - Intermediate file written
+2024-04-18 20:41:22.045424 - Mapper failed
+2024-04-18 20:41:22.046030 - Mapper received request
+2024-04-18 20:41:22.046985 - Intermediate file written
+2024-04-18 20:41:22.047044 - Mapper failed
+2024-04-18 20:41:22.047641 - Mapper received request
+2024-04-18 20:41:22.048361 - Intermediate file written
+2024-04-18 20:41:22.048417 - Mapper failed
+2024-04-18 20:41:22.049008 - Mapper received request
+2024-04-18 20:41:22.049862 - Intermediate file written
+2024-04-18 20:41:22.049909 - Mapper failed
+2024-04-18 20:41:22.050626 - Mapper received request
+2024-04-18 20:41:22.051279 - Intermediate file written
+2024-04-18 20:41:22.064180 - Reducer 4 requested input
+2024-04-18 20:41:22.064212 - Reducer 2 requested input
+2024-04-18 20:41:22.064547 - Reducer 1 requested input
+2024-04-18 20:41:22.064698 - Reducer 3 requested input
+2024-04-18 20:41:22.069589 - Reducer 3 requested input
+2024-04-18 20:41:22.073947 - Reducer 3 requested input
+2024-04-18 20:41:22.078074 - Reducer 3 requested input
+2024-04-18 20:41:22.082181 - Reducer 3 requested input
+2024-04-18 20:41:39.171753 - Mapper received request
+2024-04-18 20:41:39.174587 - Intermediate file written
+2024-04-18 20:41:39.174735 - Mapper failed
+2024-04-18 20:41:39.177236 - Mapper received request
+2024-04-18 20:41:39.179223 - Intermediate file written
+2024-04-18 20:41:39.200105 - Reducer 1 requested input
+2024-04-18 20:41:39.200866 - Reducer 2 requested input
+2024-04-18 20:41:39.201090 - Reducer 3 requested input
+2024-04-18 20:41:39.206891 - Reducer 2 requested input
+2024-04-18 20:41:39.206932 - Reducer 3 requested input
+2024-04-18 20:41:39.213389 - Reducer 3 requested input
+2024-04-18 20:41:39.213590 - Reducer 2 requested input
+2024-04-18 20:41:39.216570 - Mapper received request
+2024-04-18 20:41:39.217660 - Intermediate file written
+2024-04-18 20:41:39.217721 - Mapper failed
+2024-04-18 20:41:39.218618 - Mapper received request
+2024-04-18 20:41:39.219564 - Intermediate file written
+2024-04-18 20:41:39.226295 - Reducer 2 requested input
+2024-04-18 20:41:39.226460 - Reducer 3 requested input
+2024-04-18 20:41:39.226496 - Reducer 1 requested input
+2024-04-18 20:41:39.231450 - Reducer 1 requested input
+2024-04-18 20:41:39.231515 - Reducer 2 requested input
+2024-04-18 20:41:39.231826 - Reducer 3 requested input
+2024-04-18 20:41:39.235704 - Reducer 3 requested input
+2024-04-18 20:41:39.235729 - Reducer 1 requested input
+2024-04-18 20:41:39.238978 - Reducer 3 requested input
+2024-04-18 20:41:39.242940 - Reducer 3 requested input
+2024-04-18 20:41:39.246051 - Reducer 3 requested input
+2024-04-18 20:41:39.248572 - Mapper received request
+2024-04-18 20:41:39.249513 - Intermediate file written
+2024-04-18 20:41:39.268788 - Reducer 1 requested input
+2024-04-18 20:41:39.268814 - Reducer 3 requested input
+2024-04-18 20:41:39.268840 - Reducer 2 requested input
+2024-04-18 20:41:39.272335 - Reducer 2 requested input
+2024-04-18 20:41:39.275513 - Reducer 2 requested input
+2024-04-18 20:41:39.278235 - Reducer 2 requested input
+2024-04-18 20:41:59.730206 - Mapper received request
+2024-04-18 20:41:59.734812 - Intermediate file written
+2024-04-18 20:41:59.754110 - Reducer 2 requested input
+2024-04-18 20:41:59.754311 - Reducer 3 requested input
+2024-04-18 20:41:59.754943 - Reducer 1 requested input
+2024-04-18 20:41:59.759619 - Mapper received request
+2024-04-18 20:41:59.761321 - Intermediate file written
+2024-04-18 20:41:59.770981 - Reducer 1 requested input
+2024-04-18 20:41:59.771166 - Reducer 3 requested input
+2024-04-18 20:41:59.771343 - Reducer 2 requested input
+2024-04-18 20:41:59.776797 - Reducer 3 requested input
+2024-04-18 20:41:59.776979 - Reducer 2 requested input
+2024-04-18 20:41:59.781045 - Reducer 2 requested input
+2024-04-18 20:41:59.784050 - Mapper received request
+2024-04-18 20:41:59.784976 - Intermediate file written
+2024-04-18 20:41:59.785045 - Mapper failed
+2024-04-18 20:41:59.785654 - Mapper received request
+2024-04-18 20:41:59.786379 - Intermediate file written
+2024-04-18 20:41:59.792956 - Reducer 3 requested input
+2024-04-18 20:41:59.793154 - Reducer 1 requested input
+2024-04-18 20:41:59.793216 - Reducer 2 requested input
+2024-04-18 20:41:59.796879 - Reducer 2 requested input
+2024-04-18 20:42:10.187251 - Mapper received request
+2024-04-18 20:42:10.189963 - Intermediate file written
+2024-04-18 20:42:10.190091 - Mapper failed
+2024-04-18 20:42:10.192366 - Mapper received request
+2024-04-18 20:42:10.194624 - Intermediate file written
+2024-04-18 20:42:10.229094 - Reducer 2 requested input
+2024-04-18 20:42:10.229537 - Reducer 1 requested input
+2024-04-18 20:42:10.229584 - Reducer 3 requested input
+2024-04-18 20:42:10.233792 - Reducer 2 requested input
+2024-04-18 20:42:10.234007 - Reducer 3 requested input
+2024-04-18 20:42:10.237708 - Reducer 3 requested input
+2024-04-18 20:42:10.240769 - Mapper received request
+2024-04-18 20:42:10.242138 - Intermediate file written
+2024-04-18 20:42:10.242203 - Mapper failed
+2024-04-18 20:42:10.243183 - Mapper received request
+2024-04-18 20:42:10.243997 - Intermediate file written
+2024-04-18 20:42:10.249129 - Reducer 3 requested input
+2024-04-18 20:42:10.249161 - Reducer 1 requested input
+2024-04-18 20:42:10.249384 - Reducer 2 requested input
+2024-04-18 20:42:19.340515 - Mapper received request
+2024-04-18 20:42:19.342919 - Intermediate file written
+2024-04-18 20:42:19.358120 - Reducer 1 requested input
+2024-04-18 20:42:19.358556 - Reducer 2 requested input
+2024-04-18 20:42:19.359174 - Reducer 3 requested input
+2024-04-18 20:42:19.366191 - Reducer 1 requested input
+2024-04-18 20:42:19.366934 - Reducer 3 requested input
+2024-04-18 20:42:19.366970 - Reducer 2 requested input
+2024-04-18 20:42:19.372728 - Reducer 3 requested input
+2024-04-18 20:42:19.372767 - Reducer 2 requested input
+2024-04-18 20:42:19.377541 - Mapper received request
+2024-04-18 20:42:19.378666 - Intermediate file written
+2024-04-18 20:42:19.389342 - Reducer 2 requested input
+2024-04-18 20:42:19.389482 - Reducer 3 requested input
+2024-04-18 20:42:19.389563 - Reducer 1 requested input
+2024-04-18 20:42:19.394460 - Reducer 1 requested input
+2024-04-18 20:42:19.397923 - Reducer 1 requested input
+2024-04-18 20:42:19.400263 - Mapper received request
+2024-04-18 20:42:19.401233 - Intermediate file written
+2024-04-18 20:42:19.406960 - Reducer 1 requested input
+2024-04-18 20:42:19.406983 - Reducer 3 requested input
+2024-04-18 20:42:19.407020 - Reducer 2 requested input
+2024-04-18 20:42:19.411698 - Reducer 2 requested input
+2024-04-18 20:42:19.411721 - Reducer 3 requested input
+2024-04-18 20:42:19.414838 - Reducer 3 requested input
+2024-04-18 20:42:57.600136 - Mapper received request
+2024-04-18 20:42:57.604582 - Intermediate file written
+2024-04-18 20:42:57.623316 - Reducer 3 requested input
+2024-04-18 20:42:57.623817 - Reducer 1 requested input
+2024-04-18 20:42:57.624366 - Reducer 2 requested input
+2024-04-18 20:42:57.631473 - Reducer 1 requested input
+2024-04-18 20:42:57.631671 - Reducer 3 requested input
+2024-04-18 20:42:57.632147 - Reducer 2 requested input
+2024-04-18 20:42:57.637097 - Reducer 1 requested input
+2024-04-18 20:42:57.637510 - Reducer 2 requested input
+2024-04-18 20:42:57.637592 - Reducer 3 requested input
+2024-04-18 20:42:57.642771 - Reducer 2 requested input
+2024-04-18 20:42:57.642806 - Reducer 3 requested input
+2024-04-18 20:42:57.646565 - Reducer 2 requested input
+2024-04-18 20:42:57.649256 - Mapper received request
+2024-04-18 20:42:57.650202 - Intermediate file written
+2024-04-18 20:42:57.650252 - Mapper failed
+2024-04-18 20:42:57.651063 - Mapper received request
+2024-04-18 20:42:57.651873 - Intermediate file written
+2024-04-18 20:42:57.651919 - Mapper failed
+2024-04-18 20:42:57.652580 - Mapper received request
+2024-04-18 20:42:57.653323 - Intermediate file written
+2024-04-18 20:42:57.658939 - Reducer 2 requested input
+2024-04-18 20:42:57.659026 - Reducer 1 requested input
+2024-04-18 20:42:57.659173 - Reducer 3 requested input
+2024-04-18 20:42:57.663473 - Reducer 1 requested input
+2024-04-18 20:42:57.663548 - Reducer 2 requested input
+2024-04-18 20:42:57.667171 - Reducer 1 requested input
+2024-04-18 20:42:57.667196 - Reducer 2 requested input
+2024-04-18 20:42:57.670291 - Reducer 2 requested input
+2024-04-18 20:42:57.673014 - Reducer 2 requested input
+2024-04-18 20:42:57.676531 - Reducer 2 requested input
+2024-04-18 20:42:57.679417 - Reducer 2 requested input
+2024-04-18 20:42:57.681903 - Reducer 2 requested input
+2024-04-18 20:42:57.684430 - Mapper received request
+2024-04-18 20:42:57.685768 - Intermediate file written
+2024-04-18 20:42:57.685830 - Mapper failed
+2024-04-18 20:42:57.686946 - Mapper received request
+2024-04-18 20:42:57.688010 - Intermediate file written
+2024-04-18 20:42:57.714502 - Reducer 1 requested input
+2024-04-18 20:42:57.714695 - Reducer 2 requested input
+2024-04-18 20:42:57.715115 - Reducer 3 requested input
+2024-04-18 20:42:57.720942 - Reducer 1 requested input
+2024-04-18 20:44:06.995080 - Mapper received request
+2024-04-18 20:44:07.000698 - Intermediate file written
+2024-04-18 20:44:07.020146 - Reducer 2 requested input
+2024-04-18 20:44:07.020447 - Reducer 1 requested input
+2024-04-18 20:44:07.020903 - Reducer 3 requested input
+2024-04-18 20:44:07.026533 - Reducer 3 requested input
+2024-04-18 20:44:07.029726 - Mapper received request
+2024-04-18 20:44:07.030992 - Intermediate file written
+2024-04-18 20:44:07.038006 - Reducer 2 requested input
+2024-04-18 20:44:07.038151 - Reducer 1 requested input
+2024-04-18 20:44:07.038246 - Reducer 3 requested input
+2024-04-18 20:44:07.043221 - Reducer 1 requested input
+2024-04-18 20:44:07.043262 - Reducer 2 requested input
+2024-04-18 20:44:07.047283 - Reducer 2 requested input
+2024-04-18 20:44:07.050493 - Reducer 2 requested input
+2024-04-18 20:44:07.053635 - Reducer 2 requested input
+2024-04-18 20:44:07.057215 - Reducer 2 requested input
+2024-04-18 20:44:07.060441 - Mapper received request
+2024-04-18 20:44:07.061408 - Intermediate file written
+2024-04-18 20:44:07.069011 - Reducer 2 requested input
+2024-04-18 20:44:07.069036 - Reducer 1 requested input
+2024-04-18 20:44:07.069114 - Reducer 3 requested input
+2024-04-18 20:44:07.073249 - Reducer 2 requested input
+2024-04-18 20:44:07.073336 - Reducer 1 requested input
+2024-04-18 20:44:58.720050 - Mapper received request
+2024-04-18 20:44:58.722194 - Intermediate file written
+2024-04-18 20:44:58.734299 - Reducer 1 requested input
+2024-04-18 20:44:58.739680 - Reducer 1 requested input
+2024-04-18 20:44:58.744349 - Mapper received request
+2024-04-18 20:44:58.745929 - Intermediate file written
+2024-04-18 20:44:58.746219 - Mapper failed
+2024-04-18 20:44:58.747480 - Mapper received request
+2024-04-18 20:44:58.748442 - Intermediate file written
+2024-04-18 20:44:58.748511 - Mapper failed
+2024-04-18 20:44:58.749152 - Mapper received request
+2024-04-18 20:44:58.749852 - Intermediate file written
+2024-04-18 20:44:58.755179 - Reducer 1 requested input
+2024-04-18 20:44:58.760178 - Reducer 1 requested input
+2024-04-18 20:44:58.762965 - Mapper received request
+2024-04-18 20:44:58.763845 - Intermediate file written
+2024-04-18 20:44:58.763903 - Mapper failed
+2024-04-18 20:44:58.764791 - Mapper received request
+2024-04-18 20:44:58.765549 - Intermediate file written
+2024-04-18 20:44:58.769690 - Reducer 1 requested input
+2024-04-18 20:45:39.864130 - Mapper received request
+2024-04-18 20:45:39.868536 - Intermediate file written
+2024-04-18 20:45:39.885677 - Reducer 2 requested input
+2024-04-18 20:45:39.885718 - Reducer 1 requested input
+2024-04-18 20:45:39.891559 - Reducer 1 requested input
+2024-04-18 20:45:39.896351 - Mapper received request
+2024-04-18 20:45:39.897787 - Intermediate file written
+2024-04-18 20:45:39.906373 - Reducer 2 requested input
+2024-04-18 20:45:39.906409 - Reducer 1 requested input
+2024-04-18 20:45:39.911511 - Reducer 2 requested input
+2024-04-18 20:45:39.914203 - Mapper received request
+2024-04-18 20:45:39.915256 - Intermediate file written
+2024-04-18 20:45:39.922895 - Reducer 2 requested input
+2024-04-18 20:45:39.922922 - Reducer 1 requested input
+2024-04-18 20:45:39.926268 - Mapper received request
+2024-04-18 20:45:39.927497 - Intermediate file written
+2024-04-18 20:45:39.935887 - Reducer 2 requested input
+2024-04-18 20:45:39.935909 - Reducer 1 requested input
+2024-04-18 20:45:39.939004 - Reducer 1 requested input
+2024-04-18 20:45:39.942317 - Reducer 1 requested input
+2024-04-18 20:45:39.945576 - Mapper received request
+2024-04-18 20:45:39.946420 - Intermediate file written
+2024-04-18 20:45:39.953502 - Reducer 2 requested input
+2024-04-18 20:45:39.953562 - Reducer 1 requested input
+2024-04-18 20:45:39.955832 - Mapper received request
+2024-04-18 20:45:39.956723 - Intermediate file written
+2024-04-18 20:45:39.956766 - Mapper failed
+2024-04-18 20:45:39.957788 - Mapper received request
+2024-04-18 20:45:39.958711 - Intermediate file written
+2024-04-18 20:45:39.963806 - Reducer 1 requested input
+2024-04-18 20:45:39.963831 - Reducer 2 requested input
+2024-04-18 20:45:39.967512 - Reducer 2 requested input
+2024-04-18 20:45:39.967534 - Reducer 1 requested input
+2024-04-18 20:45:39.971461 - Reducer 2 requested input
+2024-04-18 20:45:39.971482 - Reducer 1 requested input
+2024-04-18 20:45:59.499369 - Mapper received request
+2024-04-18 20:45:59.504123 - Intermediate file written
+2024-04-18 20:45:59.525047 - Reducer 2 requested input
+2024-04-18 20:45:59.525463 - Reducer 3 requested input
+2024-04-18 20:45:59.526065 - Reducer 1 requested input
+2024-04-18 20:45:59.532076 - Reducer 3 requested input
+2024-04-18 20:45:59.536304 - Mapper received request
+2024-04-18 20:45:59.537667 - Intermediate file written
+2024-04-18 20:45:59.551754 - Reducer 2 requested input
+2024-04-18 20:45:59.551783 - Reducer 3 requested input
+2024-04-18 20:45:59.552021 - Reducer 1 requested input
+2024-04-18 20:45:59.556505 - Reducer 3 requested input
+2024-04-18 20:45:59.556530 - Reducer 2 requested input
+2024-04-18 20:45:59.561318 - Reducer 2 requested input
+2024-04-18 20:45:59.563746 - Mapper received request
+2024-04-18 20:45:59.564845 - Intermediate file written
+2024-04-18 20:45:59.564895 - Mapper failed
+2024-04-18 20:45:59.565743 - Mapper received request
+2024-04-18 20:45:59.566522 - Intermediate file written
+2024-04-18 20:45:59.566574 - Mapper failed
+2024-04-18 20:45:59.567339 - Mapper received request
+2024-04-18 20:45:59.567966 - Intermediate file written
+2024-04-18 20:45:59.568004 - Mapper failed
+2024-04-18 20:45:59.568485 - Mapper received request
+2024-04-18 20:45:59.569085 - Intermediate file written
+2024-04-18 20:45:59.574390 - Reducer 2 requested input
+2024-04-18 20:45:59.574426 - Reducer 3 requested input
+2024-04-18 20:45:59.574550 - Reducer 1 requested input
+2024-04-18 20:45:59.579698 - Reducer 2 requested input
+2024-04-18 20:45:59.583145 - Reducer 2 requested input
+2024-04-18 20:46:16.990437 - Mapper received request
+2024-04-18 20:46:16.994395 - Intermediate file written
+2024-04-18 20:46:16.994511 - Mapper failed
+2024-04-18 20:46:16.996489 - Mapper received request
+2024-04-18 20:46:16.998032 - Intermediate file written
+2024-04-18 20:46:17.020719 - Reducer 3 requested input
+2024-04-18 20:46:17.020902 - Reducer 4 requested input
+2024-04-18 20:46:17.021154 - Reducer 1 requested input
+2024-04-18 20:46:17.021805 - Reducer 2 requested input
+2024-04-18 20:46:17.029889 - Reducer 4 requested input
+2024-04-18 20:46:17.029937 - Reducer 3 requested input
+2024-04-18 20:46:17.029971 - Reducer 2 requested input
+2024-04-18 20:46:17.033456 - Mapper received request
+2024-04-18 20:46:17.034557 - Intermediate file written
+2024-04-18 20:46:17.044773 - Reducer 4 requested input
+2024-04-18 20:46:17.044897 - Reducer 2 requested input
+2024-04-18 20:46:17.045017 - Reducer 3 requested input
+2024-04-18 20:46:17.045060 - Reducer 1 requested input
+2024-04-18 20:46:17.049199 - Reducer 3 requested input
+2024-04-18 20:46:17.052471 - Reducer 3 requested input
+2024-04-18 20:46:17.055564 - Reducer 3 requested input
+2024-04-18 20:46:34.691032 - Mapper received request
+2024-04-18 20:46:34.694313 - Intermediate file written
+2024-04-18 20:46:34.694453 - Mapper failed
+2024-04-18 20:46:34.700208 - Mapper received request
+2024-04-18 20:46:34.701763 - Intermediate file written
+2024-04-18 20:46:34.701851 - Mapper failed
+2024-04-18 20:46:34.703954 - Mapper received request
+2024-04-18 20:46:34.705494 - Intermediate file written
+2024-04-18 20:46:34.705584 - Mapper failed
+2024-04-18 20:46:34.707316 - Mapper received request
+2024-04-18 20:46:34.708983 - Intermediate file written
+2024-04-18 20:46:34.709142 - Mapper failed
+2024-04-18 20:46:34.712728 - Mapper received request
+2024-04-18 20:46:34.715936 - Intermediate file written
+2024-04-18 20:46:34.731481 - Reducer 4 requested input
+2024-04-18 20:46:34.732153 - Reducer 3 requested input
+2024-04-18 20:46:34.732620 - Reducer 2 requested input
+2024-04-18 20:46:34.733571 - Reducer 1 requested input
+2024-04-18 20:46:34.738658 - Reducer 3 requested input
+2024-04-18 20:46:34.744553 - Mapper received request
+2024-04-18 20:46:34.746234 - Intermediate file written
+2024-04-18 20:46:34.754799 - Reducer 3 requested input
+2024-04-18 20:46:34.755067 - Reducer 2 requested input
+2024-04-18 20:46:34.755185 - Reducer 4 requested input
+2024-04-18 20:46:34.755535 - Reducer 1 requested input
+2024-04-18 20:46:34.762644 - Reducer 3 requested input
+2024-04-18 20:46:34.763870 - Reducer 4 requested input
+2024-04-18 20:46:34.768913 - Reducer 4 requested input
+2024-04-18 20:46:34.773412 - Mapper received request
+2024-04-18 20:46:34.775107 - Intermediate file written
+2024-04-18 20:46:34.785111 - Reducer 3 requested input
+2024-04-18 20:46:34.785206 - Reducer 1 requested input
+2024-04-18 20:46:34.785343 - Reducer 2 requested input
+2024-04-18 20:46:34.785408 - Reducer 4 requested input
+2024-04-18 20:46:34.794060 - Reducer 3 requested input
+2024-04-18 20:46:34.794117 - Reducer 1 requested input
+2024-04-18 20:46:34.794188 - Reducer 2 requested input
+2024-04-18 20:46:34.800833 - Reducer 1 requested input
+2024-04-18 20:46:34.800849 - Reducer 3 requested input
+2024-04-18 20:46:34.806694 - Reducer 1 requested input
+2024-04-18 20:46:34.806756 - Reducer 3 requested input
+2024-04-18 20:46:34.813559 - Reducer 1 requested input
+2024-04-18 20:46:34.818717 - Reducer 1 requested input
+2024-04-18 20:46:34.823770 - Mapper received request
+2024-04-18 20:46:34.825009 - Intermediate file written
+2024-04-18 20:46:34.835687 - Reducer 1 requested input
+2024-04-18 20:46:34.835749 - Reducer 4 requested input
+2024-04-18 20:46:34.836022 - Reducer 2 requested input
+2024-04-18 20:46:34.836398 - Reducer 3 requested input
+2024-04-18 20:46:34.842547 - Reducer 1 requested input
+2024-04-18 20:46:34.844124 - Reducer 2 requested input
+2024-04-18 20:46:34.844573 - Reducer 3 requested input
+2024-04-18 20:46:34.849470 - Reducer 1 requested input
+2024-04-18 20:46:34.850313 - Reducer 2 requested input
+2024-04-18 20:46:34.854884 - Reducer 1 requested input
+2024-04-18 20:46:34.855204 - Reducer 2 requested input
+2024-04-18 20:46:34.861088 - Reducer 1 requested input
+2024-04-18 20:46:34.861121 - Reducer 2 requested input
+2024-04-18 20:46:34.866637 - Reducer 1 requested input
+2024-04-18 20:46:34.871486 - Reducer 1 requested input
+2024-04-18 20:46:34.877403 - Reducer 1 requested input
+2024-04-18 20:46:34.881952 - Mapper received request
+2024-04-18 20:46:34.883098 - Intermediate file written
+2024-04-18 20:46:34.890717 - Reducer 2 requested input
+2024-04-18 20:46:34.891005 - Reducer 4 requested input
+2024-04-18 20:46:34.891047 - Reducer 3 requested input
+2024-04-18 20:46:34.891337 - Reducer 1 requested input
+2024-04-18 20:46:34.897998 - Reducer 2 requested input
+2024-04-18 20:46:34.898867 - Reducer 1 requested input
+2024-04-18 20:57:51.293166 - Mapper received request
+2024-04-18 20:57:51.296119 - Intermediate file written
+2024-04-18 20:57:51.311577 - Reducer 1 requested input
+2024-04-18 20:57:51.313349 - Reducer 2 requested input
+2024-04-18 20:57:51.313459 - Reducer 3 requested input
+2024-04-18 20:57:51.320958 - Reducer 3 requested input
+2024-04-18 20:57:51.321063 - Reducer 2 requested input
+2024-04-18 20:57:51.327557 - Reducer 3 requested input
+2024-04-18 20:57:51.332532 - Reducer 3 requested input
+2024-04-18 20:57:51.336462 - Reducer 3 requested input
+2024-04-18 20:57:51.339453 - Mapper received request
+2024-04-18 20:57:51.340481 - Intermediate file written
+2024-04-18 20:57:51.351973 - Reducer 3 requested input
+2024-04-18 20:57:51.352078 - Reducer 2 requested input
+2024-04-18 20:57:51.352150 - Reducer 1 requested input
+2024-04-18 20:57:51.356329 - Reducer 3 requested input
+2024-04-18 20:57:51.356402 - Reducer 2 requested input
+2024-04-18 20:57:51.359820 - Reducer 3 requested input
+2024-04-18 20:57:51.362949 - Mapper received request
+2024-04-18 20:57:51.364021 - Intermediate file written
+2024-04-18 20:57:51.369701 - Reducer 3 requested input
+2024-04-18 20:57:51.369736 - Reducer 2 requested input
+2024-04-18 20:57:51.369776 - Reducer 1 requested input
+2024-04-18 20:57:51.373137 - Reducer 3 requested input
+2024-04-18 20:57:51.376142 - Reducer 3 requested input
+2024-04-18 20:57:51.381704 - Reducer 3 requested input
+2024-04-18 20:57:51.384165 - Mapper received request
+2024-04-18 20:57:51.385146 - Intermediate file written
+2024-04-18 20:57:51.392089 - Reducer 3 requested input
+2024-04-18 20:57:51.392107 - Reducer 1 requested input
+2024-04-18 20:57:51.392394 - Reducer 2 requested input
+2024-04-18 20:57:51.397556 - Reducer 2 requested input
+2024-04-18 20:57:51.397593 - Reducer 1 requested input
+2024-04-18 20:57:51.401058 - Reducer 2 requested input
+2024-04-18 20:57:51.404068 - Reducer 2 requested input
+2024-04-18 20:57:51.406376 - Mapper received request
+2024-04-18 20:57:51.407343 - Intermediate file written
+2024-04-18 20:57:51.407396 - Mapper failed
+2024-04-18 20:57:51.408252 - Mapper received request
+2024-04-18 20:57:51.409016 - Intermediate file written
+2024-04-18 20:57:51.409071 - Mapper failed
+2024-04-18 20:57:51.410064 - Mapper received request
+2024-04-18 20:57:51.411044 - Intermediate file written
+2024-04-18 20:57:51.411091 - Mapper failed
+2024-04-18 20:57:51.412129 - Mapper received request
+2024-04-18 20:57:51.412909 - Intermediate file written
+2024-04-18 20:57:51.420285 - Reducer 3 requested input
+2024-04-18 20:57:51.420308 - Reducer 1 requested input
+2024-04-18 20:57:51.420383 - Reducer 2 requested input
+2024-04-18 20:57:51.424252 - Reducer 1 requested input
+2024-04-18 20:57:51.424371 - Reducer 3 requested input
+2024-04-18 20:57:51.429061 - Reducer 1 requested input
+2024-04-18 20:57:51.429088 - Reducer 3 requested input
+2024-04-18 20:57:51.432329 - Reducer 3 requested input

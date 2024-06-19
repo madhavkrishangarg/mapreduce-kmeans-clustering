@@ -1,0 +1,49 @@
+syntax = "proto3";
+
+service Master {
+  rpc StartMapper(MapperRequest) returns (MapperResponse) {}
+  rpc StartReducer(ReducerRequest) returns (ReducerResponse) {}
+  rpc GetInput(GetInputRequest) returns (GetInputResponse) {}
+}
+
+message DataPoint {
+  float x = 1;
+  float y = 2;
+}
+
+message MapperRequest {
+  int32 num_reducers = 1;
+  int32 num_centroids = 2;
+  string input_file = 3;
+  repeated Centroid_Point_Map centroids = 4;
+}
+
+message MapperResponse {
+  bool success = 1;
+  string intermediate_file = 2;
+}
+
+message ReducerRequest {
+  int32 num_reducers = 1;
+  int32 num_mappers = 2;
+  int32 mapper_base_port = 3;
+}
+
+message ReducerResponse {
+  bool success = 1;
+  repeated Centroid_Point_Map new_centroids = 2;
+}
+
+message GetInputRequest {
+  int32 reducer_id = 1;
+}
+
+message Centroid_Point_Map {
+  int32 centroid_id = 1;
+  DataPoint point = 2;
+}
+
+message GetInputResponse {
+  bool success = 1;
+  repeated Centroid_Point_Map centroid_point_list = 2;
+}

@@ -1,0 +1,127 @@
+Reducer 4 dump file
+2024-04-18 20:46:17.013412 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:46:17.019095 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:46:17.021425 - Reducer 4 received data points from Mapper 3
+2024-04-18 20:46:17.021584 - Reducer 4 completed shuffle and sort
+2024-04-18 20:46:17.021654 - Reducer 4 computed updated centroids []
+2024-04-18 20:46:17.021995 - Reducer failed
+2024-04-18 20:46:17.023219 - Reducer received request
+2024-04-18 20:46:17.025196 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:46:17.028164 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:46:17.030247 - Reducer 4 received data points from Mapper 3
+2024-04-18 20:46:17.030409 - Reducer 4 completed shuffle and sort
+2024-04-18 20:46:17.030467 - Reducer 4 computed updated centroids []
+2024-04-18 20:46:17.039198 - Reducer received request
+2024-04-18 20:46:17.041695 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:46:17.043536 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:46:17.045054 - Reducer 4 received data points from Mapper 3
+2024-04-18 20:46:17.045164 - Reducer 4 completed shuffle and sort
+2024-04-18 20:46:17.045216 - Reducer 4 computed updated centroids []
+2024-04-18 20:46:34.723420 - Reducer received request
+2024-04-18 20:46:34.728642 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:46:34.730307 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:46:34.731803 - Reducer 4 received data points from Mapper 3
+2024-04-18 20:46:34.733096 - Reducer 4 received data points from Mapper 4
+2024-04-18 20:46:34.734585 - Reducer 4 received data points from Mapper 5
+2024-04-18 20:46:34.734715 - Reducer 4 completed shuffle and sort
+2024-04-18 20:46:34.734940 - Reducer 4 computed updated centroids [[3, [25.48, 83.85]]]
+2024-04-18 20:46:34.751158 - Reducer received request
+2024-04-18 20:46:34.752860 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:46:34.754187 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:46:34.755556 - Reducer 4 received data points from Mapper 3
+2024-04-18 20:46:34.758298 - Reducer 4 received data points from Mapper 4
+2024-04-18 20:46:34.760210 - Reducer 4 received data points from Mapper 5
+2024-04-18 20:46:34.760337 - Reducer 4 completed shuffle and sort
+2024-04-18 20:46:34.760403 - Reducer 4 computed updated centroids [[3, [25.48, 83.85]]]
+2024-04-18 20:46:34.760553 - Reducer failed
+2024-04-18 20:46:34.761517 - Reducer received request
+2024-04-18 20:46:34.762452 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:46:34.763251 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:46:34.764058 - Reducer 4 received data points from Mapper 3
+2024-04-18 20:46:34.764841 - Reducer 4 received data points from Mapper 4
+2024-04-18 20:46:34.765674 - Reducer 4 received data points from Mapper 5
+2024-04-18 20:46:34.765764 - Reducer 4 completed shuffle and sort
+2024-04-18 20:46:34.765813 - Reducer 4 computed updated centroids [[3, [25.48, 83.85]]]
+2024-04-18 20:46:34.765932 - Reducer failed
+2024-04-18 20:46:34.766515 - Reducer received request
+2024-04-18 20:46:34.767407 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:46:34.768300 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:46:34.769075 - Reducer 4 received data points from Mapper 3
+2024-04-18 20:46:34.769898 - Reducer 4 received data points from Mapper 4
+2024-04-18 20:46:34.770692 - Reducer 4 received data points from Mapper 5
+2024-04-18 20:46:34.770776 - Reducer 4 completed shuffle and sort
+2024-04-18 20:46:34.770829 - Reducer 4 computed updated centroids [[3, [25.48, 83.85]]]
+2024-04-18 20:46:34.781682 - Reducer received request
+2024-04-18 20:46:34.783060 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:46:34.784230 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:46:34.785957 - Reducer 4 received data points from Mapper 3
+2024-04-18 20:46:34.787710 - Reducer 4 received data points from Mapper 4
+2024-04-18 20:46:34.788973 - Reducer 4 received data points from Mapper 5
+2024-04-18 20:46:34.789088 - Reducer 4 completed shuffle and sort
+2024-04-18 20:46:34.789184 - Reducer 4 computed updated centroids [[3, [25.48, 83.85]]]
+2024-04-18 20:46:34.832262 - Reducer received request
+2024-04-18 20:46:34.833700 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:46:34.834815 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:46:34.835961 - Reducer 4 received data points from Mapper 3
+2024-04-18 20:46:34.837435 - Reducer 4 received data points from Mapper 4
+2024-04-18 20:46:34.838605 - Reducer 4 received data points from Mapper 5
+2024-04-18 20:46:34.838708 - Reducer 4 completed shuffle and sort
+2024-04-18 20:46:34.838762 - Reducer 4 computed updated centroids [[3, [25.48, 83.85]]]
+2024-04-18 20:46:34.887227 - Reducer received request
+2024-04-18 20:46:34.888636 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:46:34.889939 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:46:34.891234 - Reducer 4 received data points from Mapper 3
+2024-04-18 20:46:34.892743 - Reducer 4 received data points from Mapper 4
+2024-04-18 20:46:34.894929 - Reducer 4 received data points from Mapper 5
+2024-04-18 20:46:34.895050 - Reducer 4 completed shuffle and sort
+2024-04-18 20:46:34.895106 - Reducer 4 computed updated centroids [[3, [25.48, 83.85]]]
+2024-04-18 20:56:27.707540 - Reducer received request
+2024-04-18 20:56:27.712384 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:56:27.713979 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:56:27.714108 - Reducer 4 completed shuffle and sort
+2024-04-18 20:56:27.714158 - Reducer 4 computed updated centroids []
+2024-04-18 20:56:27.740953 - Reducer received request
+2024-04-18 20:56:27.742623 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:56:27.744387 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:56:27.744518 - Reducer 4 completed shuffle and sort
+2024-04-18 20:56:27.744568 - Reducer 4 computed updated centroids []
+2024-04-18 20:56:27.744638 - Reducer failed
+2024-04-18 20:56:27.745464 - Reducer received request
+2024-04-18 20:56:27.746887 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:56:27.748213 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:56:27.748350 - Reducer 4 completed shuffle and sort
+2024-04-18 20:56:27.748422 - Reducer 4 computed updated centroids []
+2024-04-18 20:56:27.748595 - Reducer failed
+2024-04-18 20:56:27.749397 - Reducer received request
+2024-04-18 20:56:27.750238 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:56:27.751046 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:56:27.751143 - Reducer 4 completed shuffle and sort
+2024-04-18 20:56:27.751187 - Reducer 4 computed updated centroids []
+2024-04-18 20:56:27.758952 - Reducer received request
+2024-04-18 20:56:27.760521 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:56:27.761886 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:56:27.762004 - Reducer 4 completed shuffle and sort
+2024-04-18 20:56:27.762069 - Reducer 4 computed updated centroids []
+2024-04-18 20:56:27.762131 - Reducer failed
+2024-04-18 20:56:27.762978 - Reducer received request
+2024-04-18 20:56:27.764052 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:56:27.765128 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:56:27.765228 - Reducer 4 completed shuffle and sort
+2024-04-18 20:56:27.765273 - Reducer 4 computed updated centroids []
+2024-04-18 20:56:27.765332 - Reducer failed
+2024-04-18 20:56:27.765995 - Reducer received request
+2024-04-18 20:56:27.767270 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:56:27.768675 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:56:27.768805 - Reducer 4 completed shuffle and sort
+2024-04-18 20:56:27.768858 - Reducer 4 computed updated centroids []
+2024-04-18 20:56:27.768927 - Reducer failed
+2024-04-18 20:56:27.769600 - Reducer received request
+2024-04-18 20:56:27.770524 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:56:27.771443 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:56:27.771533 - Reducer 4 completed shuffle and sort
+2024-04-18 20:56:27.771613 - Reducer 4 computed updated centroids []
+2024-04-18 20:56:27.784769 - Reducer received request
+2024-04-18 20:56:27.786112 - Reducer 4 received data points from Mapper 1
+2024-04-18 20:56:27.787588 - Reducer 4 received data points from Mapper 2
+2024-04-18 20:56:27.787697 - Reducer 4 completed shuffle and sort
+2024-04-18 20:56:27.787747 - Reducer 4 computed updated centroids []
