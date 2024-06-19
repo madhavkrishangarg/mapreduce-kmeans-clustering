@@ -9,14 +9,16 @@ This project implements a MapReduce framework from scratch to perform K-Means cl
 3. **Reducers**: Aggregate data points belonging to the same centroid, compute new centroids, and handle shuffle and sort operations.
 
 ## Prerequisites
-- Python 3.x
+- python3
 - gRPC library (`grpcio` and `grpcio-tools`)
-- NumPy library (`numpy`)
+- numpy library (`numpy`)
 
 Install the required libraries:
 ```sh
 pip install grpcio grpcio-tools numpy
-
+```
 
 To build proto files:
+```sh
 python3 -m grpc_tools.protoc -I=. --python_out=. --grpc_python_out=. master.proto
+```
